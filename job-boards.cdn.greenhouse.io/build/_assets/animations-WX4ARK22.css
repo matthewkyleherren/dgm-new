@@ -1,0 +1,36 @@
+@keyframes fade-in {
+  0% {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  to {
+    display: block;
+    visibility: visible;
+  }
+}
+@keyframes fade-out {
+  0% {
+    display: block;
+    visibility: visible;
+  }
+  50% {
+    opacity: 1;
+  }
+  to {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+}
+.fade-in {
+  animation-name: fade-in;
+  animation-duration: 1s;
+}
+.fade-out {
+  animation-name: fade-out;
+  animation-duration: 1s;
+}

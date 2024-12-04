@@ -1,0 +1,53 @@
+.index--content {
+  line-height: 1.4;
+}
+.index--content .pagination-wrapper {
+  padding-top: 48px;
+}
+.index--content .padding {
+  padding-top: 2.5rem;
+}
+.index--header {
+  flex-direction: column;
+  gap: 24px;
+  display: flex;
+  justify-content: space-between;
+}
+.index--header__no-description {
+  padding-top: 24px;
+}
+@media (min-width: 1024px) {
+  .index--header {
+    flex-direction: row;
+  }
+}
+.index--description {
+  margin-top: 0.25rem;
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+}
+.index--description p {
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+}
+.index__main {
+  margin-top: 2.5rem;
+}
+@media (min-width: 900px) {
+  .index__side_by_side {
+    display: flex;
+    gap: 48px;
+  }
+  .index__side_by_side--right {
+    flex: 1;
+    margin-top: 0;
+  }
+  .index__side_by_side .padding {
+    padding-top: 0;
+  }
+}
+.job-board-inactive {
+  padding-top: 24px;
+}

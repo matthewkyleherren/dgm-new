@@ -1,0 +1,1389 @@
+{
+  "pageProps": {
+    "page": {
+      "id": "ZNSWnRAAACYAl593",
+      "uid": null,
+      "url": "/",
+      "type": "home",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNSWnRAAACYAl593%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-08-10T07:49:52+0000",
+      "last_publication_date": "2024-08-16T23:05:46+0000",
+      "slugs": ["home"],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "slices": [
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "title": [
+                {
+                  "type": "paragraph",
+                  "text": "en",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "guete!",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background_image": {
+                "dimensions": { "width": 2600, "height": 1558 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/dgm-hero-desktop.webp",
+                "id": "ZSrvcPvZpFvOyBZP",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "background_image_mobile": {
+                "dimensions": { "width": 1930, "height": 2913 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/dgm-hero-mobile.webp",
+                "id": "ZS6ce_vZpFvOyBfV",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "middle_image": {
+                "dimensions": { "width": 3987, "height": 2500 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652aefebfbd9a45bcec81650_PEbbleHeroMiddle2.png?auto=format,compress",
+                "id": "ZSrv6_vZpFvOyBZQ",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "middle_image_mobile": {},
+              "foreground_video_mov": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZSlJhBAAACIAvDJ-",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/fd5289f9-73f4-43c6-82ef-64d86474e4b2_hero-alpha.mov",
+                "name": "hero-alpha.mov",
+                "size": "3052454"
+              },
+              "foreground_video_webm": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZSlFIRAAACQAvB1J",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/53cef20c-7143-442d-961c-4059fd183423_hero-2.webm",
+                "name": "hero-2.webm",
+                "size": "3811983"
+              },
+              "foreground_image": {
+                "dimensions": { "width": 1920, "height": 1200 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/65290f0efbd9a45bcec8158d_PLB_motiv_A_v002_front_0096.png?auto=format,compress",
+                "id": "ZSkPDvvZpFvOyBWN",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "live_event": false,
+              "live_event_link": {
+                "link_type": "Web",
+                "url": "https://pbbl.cc/livestream",
+                "target": "_blank"
+              },
+              "live_event_image": {
+                "dimensions": { "width": 232, "height": 232 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/6525487afbd9a45bcec810f6_homepage_live.png?auto=format,compress",
+                "id": "ZSVIevvZpFvOyBD2",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "video_preview": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZTa7IxAAACMAcOqd",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/429c12ea-2116-4817-b64b-624de89c7ebd_short+new.mp4",
+                "name": "short new.mp4",
+                "size": "3305358"
+              },
+              "video": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZTa7XBAAACQAcOuu",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/99a920fb-9d9f-4432-9b5d-ed524d00d313_long+2.mp4",
+                "name": "long 2.mp4",
+                "size": "53048017"
+              }
+            },
+            "id": "hero$3150cbee-501a-4016-a72f-2cd30ae47b84",
+            "slice_type": "hero",
+            "slice_label": null
+          },
+          {
+            "variation": "simpleContentTwoTexts",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "center",
+              "background_color": "Beige light",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "We are DGM.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We power the kitchens",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "of our favourite restaurants. ",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "second_content": [
+                {
+                  "type": "paragraph",
+                  "text": "Because they, and you,",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": " have enough on your plates,",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "already.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_anchor": false,
+              "anchor_name": null
+            },
+            "id": "simple_content$b86b65e1-a6c6-4663-b2d3-dd5266544617",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "image_left": {
+                "dimensions": { "width": 4000, "height": 2500 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/6528a1a9fbd9a45bcec8154b_2309_093_PBL_3D_VISUALS_Motive_B_sRGB_v2.png?auto=format,compress",
+                "id": "ZSihqfvZpFvOyBVL",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "image_left_mobile": {
+                "dimensions": { "width": 2545, "height": 4600 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652e9bccfbd9a45bcec817d1_ongridvertical.jpg?auto=format,compress",
+                "id": "ZS6bzPvZpFvOyBfR",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "title_left": "On-grid",
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "At home, the Pebble Flow is never idle. Use it as a bonus room, an office or a rental space. It can even be used as a back-up battery.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "image_right": {
+                "dimensions": { "width": 4000, "height": 2500 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652a4e9efbd9a45bcec81641_2309_093_PBL_3D_VISUALS_Motive_C_sRGBPB001.jpg?auto=format,compress",
+                "id": "ZSpOnvvZpFvOyBZB",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "image_right_mobile": {
+                "dimensions": { "width": 2545, "height": 4600 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652e9bcafbd9a45bcec817d0_offgridvertical.jpg?auto=format,compress",
+                "id": "ZS6byvvZpFvOyBfQ",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "title_right": "Off-grid",
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Escape to the great outdoors for up to 7 days completely off-grid. Say goodbye to generators and propane tanks. The Pebble Flow’s massive battery and integrated solar panels adapt to your needs, promising true freedom.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "image_center": {
+                "dimensions": { "width": 2840, "height": 1760 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652548fffbd9a45bcec810f9_homepage_onTheRoad.png?auto=format,compress",
+                "id": "ZSVI__vZpFvOyBD5",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "video_center": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZSwpThAAACIAyRiH",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/4cd9f8b2-fd54-41f2-a0f0-f413c8fc596f_230821BRAN_DroneForOW_08B.mp4",
+                "name": "230821BRAN_DroneForOW_08B.mp4",
+                "size": "1877818"
+              },
+              "title_center": "And on the road",
+              "content_center": [
+                {
+                  "type": "paragraph",
+                  "text": "Aerodynamic design and a dual-motor Active Tow Assist System will have you wondering if you are towing anything at all. Range anxiety is a thing of the past when towing with an EV.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "id": "on_off_grid_images_reveal$d167f051-943c-4685-8250-8540087d395c",
+            "slice_type": "on_off_grid_images_reveal",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "left",
+              "background_color": "Beige dark",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Pebble is the all-electric trailer",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "designed for get-up-and-go",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "freedom.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_separator": false,
+              "add_anchor": false,
+              "anchor_name": null,
+              "small_spacings": false
+            },
+            "id": "simple_content$b00e63bb-0c93-45cd-b39f-4472f796bdff",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "stickySliderWithAnchors",
+            "version": "initial",
+            "items": [
+              {
+                "image": {
+                  "dimensions": { "width": 9089, "height": 6059 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/652e2e1cfbd9a45bcec81766_Pebble-46copy.jpg?auto=format,compress",
+                  "id": "ZS4uHPvZpFvOyBdm",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": { "link_type": "Media" },
+                "section_title": "100% Electric",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "No more fossil fuels, buzzing generators, and propane tanks. Pebble has power for days.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "100% Electric",
+                "button_link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "pebble-flow",
+                  "url": "/pebble-flow",
+                  "link_type": "Document",
+                  "isBroken": false
+                },
+                "button_text": "Explore the pebble flow"
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1782, "height": 1760 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/652549e9fbd9a45bcec810fb_homepage_magicHitch.png?auto=format,compress",
+                  "id": "ZSVJ6fvZpFvOyBD7",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": {
+                  "link_type": "Media",
+                  "kind": "document",
+                  "id": "ZS5UlBIAACcA1ufT",
+                  "url": "https://pebble-website.cdn.prismic.io/pebble-website/d25c8f85-70fe-44ab-aa83-8e28d76116a8_Hitch.mp4",
+                  "name": "Hitch.mp4",
+                  "size": "3590334"
+                },
+                "section_title": "Magic Hitch",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "With one touch, the Pebble Flow senses, self-positions, and safely attaches to your tow vehicle.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "Magic hitch",
+                "button_link": {
+                  "link_type": "Web",
+                  "url": "https://pebblelife.com/pebble-flow",
+                  "target": ""
+                },
+                "button_text": "Explore the pebble flow"
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1896, "height": 1896 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/ZiKqVfPdc1huKpZv_Screenshot2024-04-19at10.29.27AM.png?auto=format%2Ccompress&rect=518%2C0%2C1896%2C1896&w=1896&h=1896",
+                  "id": "ZiKqVfPdc1huKpZv",
+                  "edit": {
+                    "x": 518,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": {
+                  "link_type": "Media",
+                  "kind": "video",
+                  "id": "ZiKpp_Pdc1huKpZf",
+                  "url": "https://pebble-website.cdn.prismic.io/pebble-website/ZiKpp_Pdc1huKpZf_240313CYBR_forWeb01A.mp4",
+                  "name": "EasyTow.mp4",
+                  "size": "2520466"
+                },
+                "section_title": "Easy Tow",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Introducing the world’s first dual-motor Active Tow Assist System. ATAS provides extended range, unwavering confidence and effortless towing even with an SUV or EV.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "Easy tow",
+                "button_link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "pebble-flow",
+                  "url": "/pebble-flow",
+                  "link_type": "Document",
+                  "isBroken": false
+                },
+                "button_text": "Explore the pebble flow"
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1782, "height": 1760 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/6523fdc1fbd9a45bcec81015_4.png?auto=format,compress",
+                  "id": "ZSP9wfvZpFvOyBAV",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": {
+                  "link_type": "Media",
+                  "kind": "video",
+                  "id": "ZiKrwfPdc1huKpaN",
+                  "url": "https://pebble-website.cdn.prismic.io/pebble-website/ZiKrwfPdc1huKpaN_240313CYBR_forWeb02D.mp4",
+                  "name": "240313CYBR_forWeb02D.mp4",
+                  "size": "5973993"
+                },
+                "section_title": "Remote Control",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Never back up again. Once unhitched, the Pebble Flow is fully remote-controllable. Move around a campsite or driveway via the Pebble App, pivoting effortlessly, and positioning into tight spots with ease.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "Remote control",
+                "button_link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "pebble-flow",
+                  "url": "/pebble-flow",
+                  "link_type": "Document",
+                  "isBroken": false
+                },
+                "button_text": "Explore the pebble flow"
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1786, "height": 1760 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/65254aa4fbd9a45bcec810fc_Group20046.png?auto=format,compress",
+                  "id": "ZSVKpPvZpFvOyBD8",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": {
+                  "link_type": "Media",
+                  "kind": "document",
+                  "id": "ZS5UjBIAACYA1uev",
+                  "url": "https://pebble-website.cdn.prismic.io/pebble-website/f4407a71-5a28-468c-a065-a9b26a1df0fb_Instacamp.mp4",
+                  "name": "Instacamp.mp4",
+                  "size": "1529069"
+                },
+                "section_title": "InstaCamp",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Be camp-ready in seconds, stress-free. With just one touch, watch the leveling stabilizers, stairs, awning, thermostat and lights automatically set-up camp for you.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "InstaCamp",
+                "button_link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "pebble-flow",
+                  "url": "/pebble-flow",
+                  "link_type": "Document",
+                  "isBroken": false
+                },
+                "button_text": "Explore the pebble flow"
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 4000, "height": 2668 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/6528b654fbd9a45bcec81561_Pebble-14copy4.jpg?auto=format,compress",
+                  "id": "ZSi2VPvZpFvOyBVh",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "video": {
+                  "link_type": "Media",
+                  "kind": "document",
+                  "id": "ZTbDzBAAACIAcQmN",
+                  "url": "https://pebble-website.cdn.prismic.io/pebble-website/22b376e0-c353-4b09-a261-50d853a8002e_Interior+Flythrough+FINAL2.mp4",
+                  "name": "Interior Flythrough FINAL2.mp4",
+                  "size": "3187720"
+                },
+                "section_title": "Open & Airy Living",
+                "content_text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Panoramic windows give way to a 270° view. Convertible furniture, clever storage compartments, and minimalist, modern interior give you everything you need and the flexibility to make it your own.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "anchor_text": "Interiors",
+                "button_link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "pebble-flow",
+                  "url": "/pebble-flow",
+                  "link_type": "Document",
+                  "isBroken": false
+                },
+                "button_text": "Explore Pebble Flow"
+              }
+            ],
+            "primary": {
+              "last_anchor_text": "And so much more",
+              "background": "Grey dark"
+            },
+            "id": "sticky_slider$480a53bf-9603-4f9b-83c2-2e4c14e2c948",
+            "slice_type": "sticky_slider",
+            "slice_label": null
+          },
+          {
+            "variation": "simpleContentTwoTexts",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "center",
+              "background_color": "Grey dark",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "And that’s just the",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "beginning.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "second_content": [
+                {
+                  "type": "paragraph",
+                  "text": "Adventure inspired.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "App driven.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_anchor": false,
+              "anchor_name": null
+            },
+            "id": "simple_content$61cc3d5e-7bea-4f3c-8816-cacb20dd1cbd",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "image_top": {
+                "dimensions": { "width": 1920, "height": 1080 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format%2Ccompress&rect=0%2C0%2C10027%2C5640&w=1920&h=1080",
+                "id": "ZiKq2vPdc1huKpZ7",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                },
+                "tablet": {
+                  "dimensions": { "width": 1200, "height": 670 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3346,1868&w=1200&h=670",
+                  "id": "ZNyZpRAAACYAu1oD",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 0.35867237687366166,
+                    "background": "transparent"
+                  }
+                },
+                "mobile": {
+                  "dimensions": { "width": 768, "height": 429 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3344,1868&w=768&h=429",
+                  "id": "ZNyZpRAAACYAu1oD",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 0.2296573875802998,
+                    "background": "transparent"
+                  }
+                }
+              },
+              "image_bottom": {
+                "dimensions": { "width": 1270, "height": 844 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/65254b3afbd9a45bcec810ff_homepage_bottomImage.png?auto=format,compress",
+                "id": "ZSVLOvvZpFvOyBD_",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "image_main": {
+                "dimensions": { "width": 3360, "height": 2100 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/65296356fbd9a45bcec815f4_Screenshot2023-10-13at17.33.30.png?auto=format,compress",
+                "id": "ZSljVvvZpFvOyBX0",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "video": {
+                "link_type": "Media",
+                "kind": "document",
+                "id": "ZSliVRAAACUAvKlm",
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/f18f4c50-c859-4622-b59d-4454f957f56c_PLB_motiv_E_v001+%281%29+compressed.mp4",
+                "name": "PLB_motiv_E_v001 (1) compressed.mp4",
+                "size": "2348272"
+              },
+              "feature_name": "Exterior lights",
+              "feature_icon": {
+                "dimensions": { "width": 14, "height": 19 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://pebble-website.cdn.prismic.io/pebble-website/63c3b3a1-e467-4a82-88f4-f32cf9ad3757_exterior-lights-icon.svg",
+                "id": "ZN3m6BAAACYAwVO7",
+                "edit": { "x": 0, "y": 0, "zoom": 1, "background": "#fff" }
+              },
+              "preview_image": {
+                "dimensions": { "width": 376, "height": 482 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/65254b85fbd9a45bcec81102_homepage_pebbleApp.png?auto=format,compress",
+                "id": "ZSVLhfvZpFvOyBEC",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "preview_suptitle": "No manual required",
+              "preview_title": "The Pebble App is the remote control for your Pebble Flow. No manual required to get started.",
+              "preview_link_title": "Explore app",
+              "preview_link": {
+                "id": "ZNopaxAAACcAsCve",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "adventureinspiredapp-driven.",
+                "first_publication_date": "2023-08-14T13:17:34+0000",
+                "last_publication_date": "2023-10-24T08:58:10+0000",
+                "uid": "pebble-app",
+                "url": "/pebble-app",
+                "link_type": "Document",
+                "isBroken": false
+              }
+            },
+            "id": "feature_focus$49ef8d38-743b-450f-81fc-cd44d72fb4f2",
+            "slice_type": "feature_focus",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "text_alignment": "center",
+              "background_color": "Beige light",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "What others are",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "saying about Pebble",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_separator": false,
+              "add_anchor": false,
+              "anchor_name": null,
+              "small_spacings": true
+            },
+            "id": "simple_content$f387c8a8-7088-4cae-a807-92cd78c1a367",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [
+              {
+                "image": {
+                  "dimensions": { "width": 1630, "height": 1630 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/656082ca531ac2845a255933_cnet.png?auto=format,compress",
+                  "id": "ZWCCylMawoRaJVkz",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 444, "height": 99 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/656098b3531ac2845a25598c_logo_cnet.png?auto=format,compress",
+                  "id": "ZWCYs1MawoRaJVmM",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "“Think of it as a Tesla Powerwall on wheels that you can live inside part of the year.”",
+                "source": "Antuan Goodwin, CNET",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.cnet.com/roadshow/news/pebble-flow-electrified-camper-hitches-itself-pulls-its-own-weight/",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 3840, "height": 2160 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/Zr_F0EaF0TcGJAt4_p-1-IBD-2024-Automotive_W_d25816.webp?auto=format,compress",
+                  "id": "Zr_F0EaF0TcGJAt4",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 581, "height": 82 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/65608387531ac2845a255935_logo_fastCompany.png?auto=format,compress",
+                  "id": "ZWCDh1MawoRaJVk1",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "This high-tech camper is like the iPhone of RVs",
+                "source": "Jesus Diaz, Fast Company",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.fastcompany.com/91126825/pebble-innovation-by-design-2024",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 3840, "height": 2160 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
+                  "id": "ZjFQsEMTzAJOCdNu",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 444, "height": 99 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/Zr_a5kaF0TcGJA1z_engadgetlogo.png?auto=format,compress",
+                  "id": "Zr_a5kaF0TcGJA1z",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "“Pebble Flow is providing a glimpse at how an RV designed for the EV age should function.”",
+                "source": "Sam Rutherford, Engadget",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.engadget.com/the-pebble-flow-is-an-all-electric-trailer-for-the-ev-age-173009191.html?guccounter=1",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 10027, "height": 5640 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format,compress",
+                  "id": "ZiKq2vPdc1huKpZ7",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 100, "height": 100 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/Zr_bQEaF0TcGJA11_pcmaglogo.png?auto=format,compress",
+                  "id": "Zr_bQEaF0TcGJA11",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "“The Pebble Flow will debut with an Nvidia system that automates the hardest parts of RVing”",
+                "source": "Emily Dreibelbis",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.pcmag.com/news/ces-2024-this-125k-electric-rv-will-be-the-first-with-semi-autonomous-tech",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1630, "height": 1630 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
+                  "id": "ZWCD31MawoRaJVk3",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 179, "height": 122 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/656083ed531ac2845a255938_logo_techChrunch.png?auto=format,compress",
+                  "id": "ZWCD7VMawoRaJVk4",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "Bringing “electrification, automation and the usability of an iPhone to the RV world.”",
+                "source": "Kirsten Korosec, Tech Crunch",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://techcrunch.com/2023/10/19/pebbles-100k-ev-travel-trailer-can-live-off-the-grid-for-7-days/",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1630, "height": 1630 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/6560843f531ac2845a25593a_Rectangle26097.png?auto=format,compress",
+                  "id": "ZWCEP1MawoRaJVk6",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 582, "height": 112 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/6560842e531ac2845a255939_logo_motorTrend.png?auto=format,compress",
+                  "id": "ZWCELlMawoRaJVk5",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "“The Pebble Flow does not resemble the rectangular, traditional boxy travel trailer, you know, the kind that tows like a brick.”",
+                "source": "Monica Gonderman, Motor Trend",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.motortrend.com/features/pebble-flow-electric-travel-trailer/",
+                  "target": "_blank"
+                }
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1630, "height": 1630 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
+                  "id": "ZWCD31MawoRaJVk3",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "logo": {
+                  "dimensions": { "width": 735, "height": 157 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://www.d-g-m.com/assets/imgs/65608477531ac2845a25593b_logo_robbreport.png?auto=format,compress",
+                  "id": "ZWCEd1MawoRaJVk7",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                },
+                "title": "“This New All-Electric Travel Trailer Parks Itself and Sets Up Camp—So You Don’t Have to”",
+                "source": "Bryan Hood, Robb Report",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://robbreport.com/motors/cars/pebble-flow-ev-friendly-luxury-trailer-set-up-camp-1235374555/",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "primary": { "background": "Beige light" },
+            "id": "credibility$ca66f970-e0a8-47a4-ad25-44ead2406d47",
+            "slice_type": "credibility",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "left",
+              "background_color": "Beige dark",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "True freedom",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "is just around the",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "corner.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_separator": false,
+              "add_anchor": false,
+              "anchor_name": null,
+              "small_spacings": false
+            },
+            "id": "simple_content$ddaddda1-24be-4345-970f-e602c291282d",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "background_image": {
+                "dimensions": { "width": 3045, "height": 1786 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/65294a2cfbd9a45bcec815a1_cut32.png?auto=format,compress",
+                "id": "ZSlKLPvZpFvOyBWh",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "foreground_image": {
+                "dimensions": { "width": 3045, "height": 1786 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://www.d-g-m.com/assets/imgs/652949d3fbd9a45bcec815a0_cut3.png?auto=format,compress",
+                "id": "ZSlJ0_vZpFvOyBWg",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "suptitle": "Starting at $109,000",
+              "title": "Join the ride",
+              "button_title": "Explore the Product",
+              "button": {
+                "id": "ZNopgxAAACgAsCxa",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "green",
+                "first_publication_date": "2023-08-14T13:17:58+0000",
+                "last_publication_date": "2024-07-31T00:35:59+0000",
+                "uid": "pebble-flow",
+                "url": "/pebble-flow",
+                "link_type": "Document",
+                "isBroken": false
+              },
+              "secondary_button_text": "Preorder",
+              "secondary_button": {
+                "id": "ZRp6xREAAAqLhCtE",
+                "type": "preorder",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "pre-order",
+                "first_publication_date": "2023-10-02T08:09:43+0000",
+                "last_publication_date": "2024-08-06T17:11:32+0000",
+                "link_type": "Document",
+                "isBroken": false
+              },
+              "bottom_text": "est. Start of Production: End of 2024"
+            },
+            "id": "pre_footer$48e00a78-ad53-4e64-94f1-e73f55c6d5b3",
+            "slice_type": "pre_footer",
+            "slice_label": null
+          }
+        ],
+        "meta_title": "Pebble | Where Home Meets the Road",
+        "meta_description": "Defining a new way to work, live and explore from anywhere with the Pebble Flow, an all-electric travel trailer that’s bringing an iPhone-like experience to RVing.",
+        "meta_image": {
+          "dimensions": { "width": 2400, "height": 1260 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://www.d-g-m.com/assets/imgs/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format%2Ccompress&rect=0%2C276%2C3814%2C2002&w=2400&h=1260",
+          "id": "ZS3XxPvZpFvOyBdU",
+          "edit": { "x": 0, "y": 276, "zoom": 1, "background": "transparent" }
+        }
+      }
+    },
+    "footer": {
+      "id": "ZNoo_xAAACYAsCm_",
+      "uid": null,
+      "url": null,
+      "type": "footer",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-08-14T13:15:46+0000",
+      "last_publication_date": "2023-10-23T17:56:02+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "footer_title": "Where home meets the road.",
+        "newsletter_title": "Subscribe for the latest Pebble updates.",
+        "newsletter_button_text": "Join us",
+        "links": [
+          {
+            "title": "product",
+            "link": {
+              "id": "ZNopgxAAACgAsCxa",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "green",
+              "first_publication_date": "2023-08-14T13:17:58+0000",
+              "last_publication_date": "2024-07-31T00:35:59+0000",
+              "uid": "pebble-flow",
+              "url": "/pebble-flow",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "app",
+            "link": {
+              "id": "ZNopaxAAACcAsCve",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "adventureinspiredapp-driven.",
+              "first_publication_date": "2023-08-14T13:17:34+0000",
+              "last_publication_date": "2023-10-24T08:58:10+0000",
+              "uid": "pebble-app",
+              "url": "/pebble-app",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "company",
+            "link": {
+              "id": "ZNSYbBAAACcAl6gs",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "our-team",
+              "first_publication_date": "2023-08-10T07:57:35+0000",
+              "last_publication_date": "2024-09-04T00:29:21+0000",
+              "uid": "company",
+              "url": "/company",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "community",
+            "link": {
+              "id": "ZNSWxhAAACgAl6A1",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-10T07:50:33+0000",
+              "last_publication_date": "2023-10-31T10:00:14+0000",
+              "uid": "community",
+              "url": "/community",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "press",
+            "link": {
+              "id": "ZNopnhAAACgAsCzn",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "media--press",
+              "first_publication_date": "2023-08-14T13:18:24+0000",
+              "last_publication_date": "2023-10-19T06:44:58+0000",
+              "uid": "press",
+              "url": "/press",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "preorder",
+            "link": {
+              "id": "ZRp6xREAAAqLhCtE",
+              "type": "preorder",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "pre-order",
+              "first_publication_date": "2023-10-02T08:09:43+0000",
+              "last_publication_date": "2024-08-06T17:11:32+0000",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ],
+        "social_networks": [
+          {
+            "title": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.instagram.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Facebook",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.facebook.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.linkedin.com/company/pebblelife/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "X",
+            "link": {
+              "link_type": "Web",
+              "url": "https://twitter.com/PebbleLife",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Discord",
+            "link": {
+              "link_type": "Web",
+              "url": "https://pbbl.cc/discord",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Youtube",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.youtube.com/@PebbleLife",
+              "target": "_blank"
+            }
+          }
+        ],
+        "footer_bottom_links": [
+          {
+            "title": "Privacy policy",
+            "link": {
+              "id": "ZNopGRAAACkAsCpb",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:16:12+0000",
+              "last_publication_date": "2023-10-19T07:31:29+0000",
+              "uid": "privacy-policy",
+              "url": "/privacy-policy",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Terms & conditions",
+            "link": {
+              "id": "ZNopVRAAACcAsCtv",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:17:11+0000",
+              "last_publication_date": "2023-10-18T17:32:27+0000",
+              "uid": "terms-service",
+              "url": "/terms-service",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ]
+      }
+    }
+  },
+  "__N_SSG": true
+}

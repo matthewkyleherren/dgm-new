@@ -1,0 +1,30 @@
+.tag-container {
+  justify-content: center;
+  align-items: center;
+  padding: 0 8px;
+  border-radius: 5px;
+  display: inline-block;
+  height: 1.25rem;
+  line-height: 1rem;
+}
+.tag-container .ellipse {
+  max-width: 150px;
+  display: inline-block;
+  vertical-align: top;
+  height: 1.25rem;
+  line-height: 1rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.tag-container .ellipse .tag-text {
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+  vertical-align: text-bottom;
+}

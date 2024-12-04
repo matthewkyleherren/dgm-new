@@ -1,0 +1,123 @@
+.page-header {
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 3.25rem;
+  color: var(--custom-primary-typography-color);
+}
+.page-header > svg {
+  height: 1em;
+  width: 1em;
+  top: 0.125em;
+  position: relative;
+}
+.section-header {
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: var(--custom-primary-typography-color);
+  padding-top: 2rem;
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+}
+.section-header > svg {
+  height: 1em;
+  width: 1em;
+  top: 0.125em;
+  position: relative;
+}
+.section-header--large {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+.body {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #15372c;
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+}
+.body > svg {
+  height: 1em;
+  width: 1em;
+  top: 0.125em;
+  position: relative;
+}
+.body__secondary {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.body--medium {
+  font-weight: 700;
+}
+.body--strikethrough {
+  text-decoration: line-through;
+}
+.body--metadata {
+  color: #526b63;
+}
+.body--active {
+  color: #3574d6;
+}
+.body h1 {
+  line-height: 3rem;
+}
+.body h2 {
+  line-height: 2.5rem;
+}
+.body h3 {
+  line-height: 2rem;
+}
+.link {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-decoration: underline;
+  cursor: pointer;
+  color: var(--custom-link-color);
+}
+.link > svg path {
+  fill: var(--custom-link-color);
+}
+.link > svg {
+  height: 1em;
+  width: 1em;
+  top: 0.125em;
+  position: relative;
+}
+.link:hover,
+.link:focus {
+  filter: brightness(60%);
+}
+.label {
+  white-space: normal;
+  word-break: break-word;
+  padding: 0;
+  padding-inline: 0px;
+  color: #526b63;
+  overflow: hidden;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  line-height: 1.125rem;
+}
+.label span {
+  color: #d8372a;
+  margin-left: 2px;
+}
+.table-header {
+  margin: 0;
+  padding: 0;
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #335247;
+}

@@ -1,0 +1,168 @@
+{
+  "pageProps": {
+    "page": {
+      "id": "ZRp6xREAAAqLhCtE",
+      "uid": null,
+      "url": null,
+      "type": "preorder",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZRp6xREAAAqLhCtE%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-10-02T08:09:43+0000",
+      "last_publication_date": "2024-08-06T17:11:32+0000",
+      "slugs": ["pre-order"],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "title": "Preorder",
+        "product_title": "Starting at $109,000",
+        "price": null,
+        "informative_text": "$101,500 after potential tax credit",
+        "product_description": [
+          {
+            "type": "paragraph",
+            "text": "All-electric, modern automotive construction, industry-leading aerodynamic performance, and a generous 45 kWh battery all come standard. \n\nPebble Flow with Magic Pack\nStarting at $125,000 ($117,500 after potential tax credit) \nThe Magic Pack adds a powerful dual-motor setup and bundles a set of world-first features, including Remote Control, Magic Hitch, Easy Tow, and more.",
+            "spans": [{ "start": 139, "end": 166, "type": "strong" }],
+            "direction": "ltr"
+          }
+        ],
+        "delivery_time": "Est. Start of Production: before end of 2024.",
+        "availability_text": "Available in the U.S. only.",
+        "newsletter_text": "Join Pebble’s newsletter",
+        "terms_text": [
+          {
+            "type": "paragraph",
+            "text": "By placing a fully refundable preorder, you agree to the Preorder Agreement and have read the Pebble Terms & Service, Privacy Policy, and Tax Credit Information.  Your qualification for a tax credit associated with the purchase of a Pebble Flow trailer is subject to certain criteria and eligibility requirements. You should consult your professional tax advisor(s) to confirm whether you qualify for a tax credit, given your personal circumstances.  Pebble does not provide tax or legal advice.",
+            "spans": [
+              {
+                "start": 57,
+                "end": 75,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://pebblelife.com/preorder-agreement",
+                  "target": "_self"
+                }
+              },
+              { "start": 57, "end": 75, "type": "strong" },
+              {
+                "start": 101,
+                "end": 116,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://pebblelife.com/terms-service",
+                  "target": "_blank"
+                }
+              },
+              { "start": 101, "end": 116, "type": "strong" },
+              {
+                "start": 118,
+                "end": 132,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://pebblelife.com/privacy-policy",
+                  "target": "_blank"
+                }
+              },
+              { "start": 118, "end": 132, "type": "strong" },
+              {
+                "start": 138,
+                "end": 160,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "/tax-credit-information",
+                  "target": "_self"
+                }
+              },
+              { "start": 138, "end": 160, "type": "strong" }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "due_today_text": "Fully refundable deposit",
+        "step_one_button_title": "Continue to billing info",
+        "step_two_button_title": "Continue to payment",
+        "step_three_button_title": "Place order",
+        "image": {
+          "dimensions": { "width": 3814, "height": 2554 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/pebble-website/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format,compress",
+          "id": "ZS3XxPvZpFvOyBdU",
+          "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+        },
+        "text_image_left": [
+          {
+            "type": "paragraph",
+            "text": "fully\nrefundable",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "icon_left": {
+          "dimensions": { "width": 2000, "height": 2000 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://pebble-website.cdn.prismic.io/pebble-website/65296467fbd9a45bcec815f9_check.svg?auto=compress,format",
+          "id": "ZSlkZ_vZpFvOyBX5",
+          "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+        },
+        "text_image_right": [
+          {
+            "type": "paragraph",
+            "text": "designed\nin california",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "icon_right": {
+          "dimensions": { "width": 2000, "height": 2000 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://pebble-website.cdn.prismic.io/pebble-website/65296473fbd9a45bcec815fa_sun.svg?auto=compress,format",
+          "id": "ZSlkc_vZpFvOyBX6",
+          "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+        },
+        "meta_title": "Pebble | Preorder Your Pebble Flow | All-electric RV",
+        "meta_description": "Defining a new way to work, live and explore from anywhere with the Pebble Flow, an all-electric travel trailer that’s bringing an iPhone-like experience to RVing.",
+        "meta_image": {
+          "dimensions": { "width": 3814, "height": 2554 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/pebble-website/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format,compress",
+          "id": "ZS3XxPvZpFvOyBdU",
+          "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+        },
+        "product_title_1": "Pebble Flow",
+        "product_option_1": null,
+        "price_1": "From $109,000",
+        "informative_text_1": "$101,500 after potential tax credit",
+        "product_description_1": [
+          {
+            "type": "paragraph",
+            "text": "All-electric, modern automotive construction, industry-leading aerodynamic performance, and a generous 45 kWh battery all come standard.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "product_title_2": "Pebble Flow",
+        "product_option_2": "With Magic Pack",
+        "price_2": "From $125,000",
+        "informative_text_2": "$117,500 after potential tax credit",
+        "product_description_2": [
+          {
+            "type": "paragraph",
+            "text": "The Magic Pack adds a powerful dual-motor drivetrain and bundles a set of world-first features, including Remote Control, Magic Hitch, Easy Tow, and more.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "slices3": []
+      }
+    }
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,42 @@
+.filters {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding-top: 16px;
+}
+@media (min-width: 900px) {
+  .filters > div {
+    width: calc(25% - 16px);
+  }
+}
+@media (max-width: 1024px) {
+  .filters > div {
+    width: calc(50% - 16px);
+  }
+}
+@media (max-width: 600px) {
+  .filters > div {
+    width: 100%;
+  }
+}
+.filters__column {
+  display: flex;
+  padding-top: 0;
+  flex-direction: column;
+}
+@media (min-width: 900px) {
+  .filters__column {
+    width: 328px;
+  }
+}
+.filters__column-sticky-container {
+  position: sticky;
+  top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.filters__column > div {
+  flex: 0;
+  width: 100%;
+}

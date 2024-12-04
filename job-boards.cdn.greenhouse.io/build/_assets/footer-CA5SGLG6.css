@@ -1,0 +1,23 @@
+.footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fafafa;
+  padding: 1.5rem 0;
+  gap: 0.8rem;
+  font-family:
+    Untitled Sans,
+    sans-serif;
+}
+.footer-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.footer-logo-link {
+  margin-left: 0.3rem;
+  margin-bottom: -0.4rem;
+  display: flex;
+  align-items: center;
+}

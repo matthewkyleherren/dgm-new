@@ -1,0 +1,51 @@
+.icon--red {
+  fill: #b52617;
+}
+.icon--light-red {
+  fill: #ff574a;
+}
+.icon--pink {
+  fill: #e8736b;
+}
+.icon--light-pink {
+  fill: #f3aca7;
+}
+.icon--orange {
+  fill: #fe7838;
+}
+.icon--light-orange {
+  fill: #ffb490;
+}
+.icon--yellow {
+  fill: #f2cd00;
+}
+.icon--light-yellow {
+  fill: #ffe607;
+}
+.icon--green {
+  fill: #008561;
+}
+.icon--light-green {
+  fill: #4cb398;
+}
+.icon--dark-green {
+  fill: #15372c;
+}
+.icon--blue {
+  fill: #3574d6;
+}
+.icon--light-blue {
+  fill: #578bdd;
+}
+.icon--purple {
+  fill: #7b05b2;
+}
+.icon--light-purple {
+  fill: #d09ee8;
+}
+.icon--gray {
+  fill: #424242;
+}
+.icon--light-gray {
+  fill: #c8c8c8;
+}

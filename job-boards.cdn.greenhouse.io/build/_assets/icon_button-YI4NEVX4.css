@@ -1,0 +1,40 @@
+.icon-button {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+}
+.icon-button svg {
+  margin-left: 0;
+  margin-right: 0;
+  vertical-align: middle;
+  fill: none;
+}
+.icon-button:hover {
+  background: #d6e6ff;
+}
+.icon-button:active {
+  background: #eff1f0;
+}
+.icon-button--xs {
+  height: 16px;
+  width: 16px;
+}
+.icon-button--sm {
+  height: 24px;
+  width: 24px;
+}
+.icon-button--md {
+  height: 32px;
+  width: 32px;
+}
+.icon-button--hover-gray:hover {
+  background: #677d76;
+}
+.icon-button--hover-gray:hover svg path {
+  fill: #eff1f0;
+}

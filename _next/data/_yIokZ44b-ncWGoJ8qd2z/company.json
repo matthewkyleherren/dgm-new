@@ -1,0 +1,3801 @@
+{
+  "pageProps": {
+    "page": {
+      "id": "ZNSYbBAAACcAl6gs",
+      "uid": "company",
+      "url": "/company",
+      "type": "page",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNSYbBAAACcAl6gs%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-08-10T07:57:35+0000",
+      "last_publication_date": "2024-09-04T00:29:21+0000",
+      "slugs": ["our-team"],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "slices": [
+          {
+            "variation": "scrollRevealCover",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "title": [
+                {
+                  "type": "paragraph",
+                  "text": "future natural",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "image": {
+                "dimensions": { "width": 4000, "height": 2668 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/pebble-website/65283e33fbd9a45bcec81523_Pebble-25copy2.jpeg?auto=format,compress",
+                "id": "ZSg-M_vZpFvOyBUj",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "background": "Beige dark"
+            },
+            "id": "cover$6b3c54f0-0a55-4077-87be-b2fa06a79b6d",
+            "slice_type": "cover",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "left",
+              "background_color": "Beige dark",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "To build a more sustainable future, we must go back to nature while moving forward with technology. ",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_separator": false,
+              "add_anchor": false,
+              "anchor_name": null,
+              "small_spacings": false
+            },
+            "id": "simple_content$c7bb345a-2b7a-4156-84ad-d303b2a8100e",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "contentBigTitle",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "title_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Our vision",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "title_right": [
+                {
+                  "type": "paragraph",
+                  "text": "A world where home can be anywhere you want to take it.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "Beige light",
+              "separators": false
+            },
+            "id": "content$b8a50e7d-93bc-4251-98fc-0229b1dd66dd",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "image": {
+                "dimensions": { "width": 8061, "height": 5374 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/pebble-website/ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.jpg?auto=format,compress",
+                "id": "ZtCfxkaF0TcGJhwN",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "background": "Beige light",
+              "suptitle": null,
+              "text": [
+                {
+                  "type": "paragraph",
+                  "text": "Our team doesn’t just build products. We’re designing a lighter lifestyle that is truly sustainable.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "link": {
+                "id": "ZQxG5hAAACIA3Vqw",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "bingrui-yang",
+                "first_publication_date": "2023-09-21T13:36:42+0000",
+                "last_publication_date": "2024-11-07T17:40:57+0000",
+                "uid": "team",
+                "url": "/team",
+                "link_type": "Document",
+                "isBroken": false
+              },
+              "link_text": "The team",
+              "pop_up": true
+            },
+            "id": "image_content$2cfac71d-e7dc-40a7-ac0b-29d8f074dff5",
+            "slice_type": "image_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "text_alignment": "center",
+              "background_color": "Green",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Designing the future",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "is a team sport.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "add_separator": false,
+              "add_anchor": false,
+              "anchor_name": null,
+              "small_spacings": false
+            },
+            "id": "simple_content$08fa260a-e910-4d6a-861b-aea575e1905b",
+            "slice_type": "simple_content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "content_left": [
+                { "type": "heading2", "text": "Our team", "spans": [] }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Electric vehicles. Smart homes. Robotics. AI. Sustainable energy.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "By harnessing the most advanced technologies, and those who can put them to best and highest use, we are reimagining the RV experience from the road up. And going well beyond all-electric.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pebble blends the best of what it means to be at home, on the road, and off-grid into something useful and magical. This is a collective effort. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "If the idea of building out the future sparks your imagination and intersects with your skills, we’d love to meet you.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "Green",
+              "separators": true
+            },
+            "id": "content$aebbbe06-f1d1-4ee7-8bd9-ed69b82da71a",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{}],
+            "primary": {
+              "title": "we’d love to \nmeet you",
+              "button_text": "positions",
+              "button_link": {
+                "link_type": "Web",
+                "url": "https://boards.greenhouse.io/pebblelife",
+                "target": "_blank"
+              },
+              "background": "Green"
+            },
+            "id": "call_to_action$8881b1ef-35ed-42b8-ad6f-017f44606157",
+            "slice_type": "call_to_action",
+            "slice_label": null
+          }
+        ],
+        "meta_title": "Pebble | A World Where Home Can Be Anywhere You Want to Take It",
+        "meta_description": "Defining a new way to work, live and explore from anywhere with the Pebble Flow, an all-electric travel trailer that’s bringing an iPhone-like experience to RVing.",
+        "meta_image": {
+          "dimensions": { "width": 2400, "height": 1260 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/pebble-website/65283e33fbd9a45bcec81523_Pebble-25copy2.jpeg?auto=format%2Ccompress&rect=0%2C284%2C4000%2C2100&w=2400&h=1260",
+          "id": "ZSg-M_vZpFvOyBUj",
+          "edit": { "x": 0, "y": 284, "zoom": 1, "background": "transparent" }
+        }
+      }
+    },
+    "posts": [
+      {
+        "id": "ZkOLBxEAAB4ALaPq",
+        "uid": "the-pebble-flow-named-to-fast-companys-2024-list-of-world-changing-ideas",
+        "url": "/post/the-pebble-flow-named-to-fast-companys-2024-list-of-world-changing-ideas",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZkOLBxEAAB4ALaPq%22%29+%5D%5D",
+        "tags": ["News", "Announcement"],
+        "first_publication_date": "2024-05-14T16:05:20+0000",
+        "last_publication_date": "2024-05-14T16:05:20+0000",
+        "slugs": [
+          "the-pebble-flow-named-to-fast-companys-2024-list-of-world-changing-ideas"
+        ],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "The Pebble Flow Named To Fast Company’s 2024 List of World Changing Ideas",
+          "main_image": {
+            "dimensions": { "width": 10027, "height": 5640 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format,compress",
+            "id": "ZiKq2vPdc1huKpZ7",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2024-05-14",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "RVing should be about enjoying the adventure and the company you keep — not the constant maintenance and concern of the vehicle you are traveling with. Traditional RVs and travel trailers carry burdens like difficult towing, high fuel costs, and a lack of technology. The ongoing upkeep alone can be daunting for any new RVer and a headache for even the most seasoned travelers.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "That’s why we created the Pebble Flow to change how people go about RVing forever. It’s our response to the long overdue demand for a modern, sustainable, and user-friendly RV. Today, it’s an honor to see our work recognized and Pebble listed as one of Fast Company’s 2024 World Changing Ideas in Transportation.",
+                    "spans": [{ "start": 253, "end": 311, "type": "strong" }],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 2501, "height": 1329 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/ZkOLYiol0Zci9HxC_WCI_Facebook.jpg?auto=format,compress",
+                    "id": "ZkOLYiol0Zci9HxC",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$5f7cbfd0-2128-4f85-8774-b9690ee1167b",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "This annual awards program focuses on social good, elevating products and concepts that aim to make the world better. The solutions cover everything from renewable energy storage and waste in the fashion industry to a building made entirely from recycled concrete — and we are beyond proud to be listed among such inspiring companies.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "We’re dedicated to serving those who desire to explore the world on their own terms. As we gear up for production later this year, the Pebble Flow is set to revolutionize how people live, work, and explore — promoting a more sustainable and mobile lifestyle. With impressive early traction and strong community backing, we are ready to lead the transformation of the RV industry into a new, electric age.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Looking forward, our hope is that our customers can experience a new lifestyle that allows them to leave behind the things that weigh them down and lead a more sustainable lifestyle with a lighter footprint.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Stay tuned for more updates on the Pebble Flow and check out the complete list of Fast Company’s World Changing Ideas:",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$f9af29c3-2fb1-4bd6-8c5d-6a2e82534c64",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com or check out the Brand Video and Digital Premiere Video.",
+                    "spans": [
+                      {
+                        "start": 380,
+                        "end": 394,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 412,
+                        "end": 423,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://youtu.be/bF5ukpi7VYw%20https://youtu.be/bF5ukpi7VYw",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 428,
+                        "end": 450,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pbbl.cc/livestream",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Follow Pebble on Social",
+                    "spans": [{ "start": 0, "end": 23, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To receive real-time updates and learn more about Pebble, subscribe to the newsletter at pebblelife.com or check out the team on Twitter, LinkedIn, Instagram, Facebook, Discord, and Youtube.",
+                    "spans": [
+                      {
+                        "start": 89,
+                        "end": 103,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 129,
+                        "end": 136,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://twitter.com/PebbleLife",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 138,
+                        "end": 146,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.linkedin.com/company/pebblelife/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 147,
+                        "end": 157,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.instagram.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 159,
+                        "end": 167,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.facebook.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 169,
+                        "end": 177,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pbbl.cc/discord",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 182,
+                        "end": 189,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.youtube.com/@PebbleLife",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e2c3f887-af46-4747-aaa7-092b29751257",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZykimBEAAB4AJMOI",
+        "uid": "the-pebble-flow-named-to-times-list-of-the-best-inventions-of-2024",
+        "url": "/post/the-pebble-flow-named-to-times-list-of-the-best-inventions-of-2024",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZykimBEAAB4AJMOI%22%29+%5D%5D",
+        "tags": ["News", "Announcement"],
+        "first_publication_date": "2024-11-04T19:41:37+0000",
+        "last_publication_date": "2024-11-04T19:41:37+0000",
+        "slugs": [
+          "the-pebble-flow-named-to-times-list-of-the-best-inventions-of-2024"
+        ],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "The Pebble Flow Named to TIME’s List of the Best Inventions of 2024",
+          "main_image": {
+            "dimensions": { "width": 4000, "height": 2500 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/6528a1d1fbd9a45bcec8154c_2309_093_PBL_3D_VISUALS_Motive_B_sRGB_v2.png?auto=format,compress",
+            "id": "ZSih0fvZpFvOyBVM",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2024-05-14",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Fremont, CA — October 30, 2024 — The Pebble Flow, an all-electric travel trailer, has been named to TIME’s annual list of the Best Inventions, which features extraordinary innovations changing our lives.",
+                    "spans": [
+                      { "start": 0, "end": 33, "type": "strong" },
+                      {
+                        "start": 33,
+                        "end": 48,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 100,
+                        "end": 141,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://time.com/best-inventions-2024",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To compile this year’s list, TIME gathered nominations from its global network of editors and correspondents, as well as through an online application, with a special focus on emerging fields like healthcare, AI, and green energy. TIME evaluated each contender on a number of key factors, including originality, efficacy, ambition, and impact.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“At Pebble, we’re focused on using advanced technology to enhance the RV experience, making it easier and more enjoyable for everyone,” said Bingrui Yang, CEO and founder of Pebble. “TIME’s recognition of the Pebble Flow is a testament to our vision of setting a new standard for RV travel — one that combines comfort with ease of use and empowers travelers to explore farther, more sustainably.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Drawing on expertise from industry leaders at Apple, Tesla, Zoox, Rivian, and SpaceX, the Pebble Flow was designed to eliminate many of the frustrations RVers have faced for decades. It combines sleek design, functionality, and technology to create a seamless user experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "At the heart of the Pebble Flow is its intelligent automation system, powered by NVIDIA DRIVE Orin. Features like Magic Hitch and InstaCamp transform traditionally complex processes into one-touch operations, from hitching to campsite setups. The Dual-motor Active Tow Assist System overcomes range limitations for electric vehicles while boosting fuel efficiency for gas-powered ones. Its aerodynamic design and robust aluminum space frame maximize both performance and safety, while the integrated 1 kW solar system and 45 kWh LFP battery ensure extended off-grid living without propane, perfectly aligning with the needs of today’s eco-conscious travelers.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "See the full list here: time.com/best-inventions-2024",
+                    "spans": [
+                      {
+                        "start": 24,
+                        "end": 53,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://time.com/best-inventions-2024",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work, and explore from anywhere with a 100% electric, hassle-free travel trailer. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com.",
+                    "spans": [
+                      {
+                        "start": 393,
+                        "end": 407,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Follow Pebble on Social",
+                    "spans": [{ "start": 0, "end": 23, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To receive real-time updates and learn more about Pebble, subscribe to the newsletter at pebblelife.com or check out the team on Twitter, LinkedIn, Instagram, Facebook, Discord, and Youtube.",
+                    "spans": [
+                      {
+                        "start": 89,
+                        "end": 103,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 129,
+                        "end": 136,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://twitter.com/PebbleLife",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 138,
+                        "end": 146,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.linkedin.com/company/pebblelife/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 147,
+                        "end": 157,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.instagram.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 159,
+                        "end": 167,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.facebook.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 169,
+                        "end": 177,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pbbl.cc/discord",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 182,
+                        "end": 189,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.youtube.com/@PebbleLife",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e2c3f887-af46-4747-aaa7-092b29751257",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZtCfpRAAACAAdLpR",
+        "uid": "pebble-announces-the-opening-of-new-hq-and-manufacturing-facility-dedicated-to-production-of-the-pebble-flow",
+        "url": "/post/pebble-announces-the-opening-of-new-hq-and-manufacturing-facility-dedicated-to-production-of-the-pebble-flow",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZtCfpRAAACAAdLpR%22%29+%5D%5D",
+        "tags": ["News", "Announcement"],
+        "first_publication_date": "2024-08-29T16:22:03+0000",
+        "last_publication_date": "2024-10-24T16:35:36+0000",
+        "slugs": [
+          "pebble-announces-the-opening-of-new-hq-and-manufacturing-facility-dedicated-to-production-of-the-pebble-flow"
+        ],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Pebble Announces the Opening of New HQ and Manufacturing Facility Dedicated to Production of the Pebble Flow",
+          "main_image": {
+            "dimensions": { "width": 8061, "height": 5374 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.jpg?auto=format,compress",
+            "id": "ZtCfxkaF0TcGJhwN",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2024-05-14",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Fremont, CA — August 29, 2024 — Pebble, the California-based startup behind the all-electric recreational vehicle (RV) trailer, Pebble Flow, is announcing the opening of its new 60,000-square-foot HQ and manufacturing facility in Fremont, CA. This move marks a significant milestone in Pebble’s journey to define a new way to live, work and explore from anywhere.",
+                    "spans": [
+                      { "start": 0, "end": 30, "type": "strong" },
+                      {
+                        "start": 32,
+                        "end": 38,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow was designed to introduce a new RVing experience, powered by a large 45 kWh lithium-ion battery. Developed by veterans from Apple, Tesla, Zoox, Rivian and SpaceX, the Pebble Flow is the industry’s most advanced travel trailer. Utilizing the NVIDIA DRIVE Orin platform, the Pebble Flow features automation capabilities, including the Dual-Motor Active Tow Assist System, Magic Hitch and Remote Control, making RVing as easy as using an iPhone.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1358, "height": 768 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/Zxp3UIF3NbkBYAPW_Screenshot2024-10-24at9.34.37AM.png?auto=format,compress",
+                    "id": "Zxp3UIF3NbkBYAPW",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$5f7cbfd0-2128-4f85-8774-b9690ee1167b",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble’s Head of Manufacturing and Service Operations, Greg Zanghi, who has extensive operations experience from Tesla, Ducati, Zoox and Aurora, will oversee all operations, including final assembly, which will take place in the new Fremont facility.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“Opening our combined headquarters, R&D and manufacturing facility in Fremont is a huge step forward in bringing the Pebble Flow to market,” said Zanghi. “It gives us room to grow, attract top talent and execute on our vision. We are excited to put down roots in the Bay Area, the heart of advanced technology development.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "With the opening of the new facility, Pebble plans to add up to 100 new high-tech roles in clean energy within the first year. These will span engineering, production, operations and quality assurance.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow has a starting price of $109,000 before potential tax credits. Preorders are available at pebblelife.com/preorder with a $500 fully refundable deposit.",
+                    "spans": [
+                      {
+                        "start": 106,
+                        "end": 129,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/preorder",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If you are interested in joining a team developing and producing advanced zero-emission technology that will enable the best RVing experience possible, the Pebble team is hiring. Learn more about the company, the team and see the current open positions at pebblelife.com/company.",
+                    "spans": [
+                      {
+                        "start": 256,
+                        "end": 278,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/company",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$f9af29c3-2fb1-4bd6-8c5d-6a2e82534c64",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work and explore from anywhere with a 100% electric, hassle-free travel trailer. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com.",
+                    "spans": [
+                      {
+                        "start": 392,
+                        "end": 406,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Follow Pebble on Social",
+                    "spans": [{ "start": 0, "end": 23, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To receive real-time updates and learn more about Pebble, subscribe to the newsletter at pebblelife.com or check out the team on Twitter, LinkedIn, Instagram, Facebook, Discord, and Youtube.",
+                    "spans": [
+                      {
+                        "start": 89,
+                        "end": 103,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 129,
+                        "end": 136,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://twitter.com/PebbleLife",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 138,
+                        "end": 146,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.linkedin.com/company/pebblelife/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 147,
+                        "end": 157,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.instagram.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 159,
+                        "end": 167,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.facebook.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 169,
+                        "end": 177,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pbbl.cc/discord",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 182,
+                        "end": 189,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.youtube.com/@PebbleLife",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e2c3f887-af46-4747-aaa7-092b29751257",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZjE3PhIAAM0C4uZ4",
+        "uid": "pebbles-easy-tow-paves-a-future-where-towing-is-accessible-and-enjoyable",
+        "url": "/post/pebbles-easy-tow-paves-a-future-where-towing-is-accessible-and-enjoyable",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZjE3PhIAAM0C4uZ4%22%29+%5D%5D",
+        "tags": ["Tech", "Engineering"],
+        "first_publication_date": "2024-04-30T20:22:29+0000",
+        "last_publication_date": "2024-04-30T20:22:29+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Pebble’s Easy Tow Paves A Future Where Towing Is Accessible and Enjoyable",
+          "main_image": {
+            "dimensions": { "width": 3840, "height": 2160 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
+            "id": "ZjFQsEMTzAJOCdNu",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Ivan Wang",
+          "date": "2024-04-30",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Watch Full Video",
+                    "spans": [
+                      {
+                        "start": 0,
+                        "end": 16,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://youtu.be/BjlEOJMJKak",
+                          "target": "_self"
+                        }
+                      },
+                      { "start": 0, "end": 16, "type": "strong" }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "author": null,
+                "job": null
+              },
+              "id": "quote$65de4e08-53f2-41c3-9fac-e729fa9d9629",
+              "slice_type": "quote",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 960, "height": 540 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/ZjE40EMTzAJOCdHI_IMB_r0MM7T.gif?auto=format,compress",
+                    "id": "ZjE40EMTzAJOCdHI",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$60e497ae-d714-40e0-92e5-afd6515113e2",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Towing presents a set of challenges on the road. From safety concerns to decreased efficiency, towing can detract from the joy of the journey. The increasing adoption of electric vehicles (EVs) in recent years has added a layer of complexity, introducing issues related to towing capability, charging logistics, and range anxiety.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "heading4",
+                    "text": "Challenges of Towing with EVs",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "When towing a travel trailer with electric vehicles, the additional weight and drag significantly increase your energy consumption and thus impact your vehicle’s range, which means more money and time spent on charging and the added stress of finding a charging spot. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“It’s been very clear now for a couple of years that the use case of towing with an EV is broken” - Stefan Solyom, CTO of Pebble. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "That is, until Easy Tow.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$a50b48fa-5414-4f19-bc22-469c96ef100d",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Every Moment Matters",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble’s mission is to empower anyone to take their lifestyle on the road by making it as simple, accessible, and as beautiful as possible.  ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Every choice we make is intended to give you more opportunity, flexibility and access while also giving you back more time for the moments that matter most. This led us to ponder: How can we eliminate the towing hassles and provide our customers with more time for adventure? ",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$94bdb7a8-e2b5-41ab-b5ff-0b392bff8691",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 569, "height": 320 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/ZjFRnkMTzAJOCdN4_IMB_sHT85n.GIF?auto=format,compress",
+                    "id": "ZjFRnkMTzAJOCdN4",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$5f7cbfd0-2128-4f85-8774-b9690ee1167b",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Aerodynamic Design",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "“It’s by far the largest contributor to range loss. The entire journey of how the air comes and goes is important. Every surface needs to be analyzed.”  - William Li, Head of Mechanical Engineering of Pebble. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Drag, lift, headwinds, crosswinds. How the air goes around the front corners and then the back corner. How the crosswinds attack your sidewalls and go over your roof. These are all elements of aerodynamics. How the air flows impacts not just your driving efficiency but also your towing stability.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble’s approach to tackling these challenges involves both design and technology. The streamlined design of the Pebble Flow features rounded edges and smooth surfaces complemented by a patented active aero system. The system features a telescoping aero component at the trailer’s front which automatically elevates itself at high speeds and lowers when parked. It redirects airflow from the tow vehicle to avoid direct impact on the flat front window, thereby decreasing drag and improving the overall towing stability. We’ve spent countless hours refining the design through advanced computational simulations. We want the air to come in nicely, and leave gracefully, in all directions. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The result – 300% as aerodynamic as a conventional travel trailer. The impact of these enhancements is substantial. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$f9af29c3-2fb1-4bd6-8c5d-6a2e82534c64",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [{ "image": {} }],
+              "primary": {},
+              "id": "slider$68d701f7-71f1-44a0-9b42-f03884d36741",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Easy Tow",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Towing should be safe and effortless, whether towing with an SUV, a pick-up truck, a gas vehicle or an EV. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "While enhancing aerodynamics boosts towing stability and efficiency, we’ve gone a step further to reduce the power required by the tow vehicle, thereby extending your range. The Pebble Flow with Magic Pack is equipped with a dual-motor Active Propulsion Assist System, powered by two electric motors. The industry-first system intelligently supplies the optimal amount of torque, making you almost forget you’re pulling a load. Using the Pebble App, you can pre-set your desired state of charge for when you arrive at your destination, allowing the system to intelligently optimize the propulsion assist in real-time. Alternatively, you have the flexibility to manually activate or deactivate the system at any time. Stefan puts it compellingly, “The transition from Easy Tow off to Easy Tow on is so profound, it becomes addictive”. \n",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Easy Tow drastically lowers the energy and torque demands on the tow vehicle, alleviating range concerns for EV drivers and improving fuel efficiency for those with gas-powered vehicles.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$940b61f2-e4eb-4024-a0ae-cbb76a6cacdf",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Regenerative Braking",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "The ease doesn’t end with propulsion assist. Setting the Pebble Flow apart from conventional travel trailers, it is equipped with three braking systems: automotive friction brakes for reliable stopping power, parking brakes eliminating the need for wheel chocks and regenerative braking, mirroring the driving experience of an electric vehicle. The regenerative braking system not only ensures smooth and effective deceleration but also instills confidence during descents, as it actively slows the vehicle while simultaneously recharging Pebble Flow’s battery. This harmonious blend of technology ensures that drivers experience superior stopping behavior and peace of mind while towing, especially when navigating down steep mountainous terrain.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$ab12b3e6-d1a6-48cf-acf6-79a86596cccb",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Development Progress",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Since unveiling the Pebble Flow last year, continuous enhancements have been made to both hardware and software. Through rigorous testing with popular tow vehicle options, including all-electric ones like the Tesla Cybertruck and Rivian R1S, we’ve observed encouraging outcomes.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "EV efficiency is commonly measured in miles per kilowatt-hour (miles per kWh). This metric indicates how many miles an EV can travel on one kilowatt-hour of electricity; therefore, higher figures mean better efficiency. When towing, the efficiency of EVs decreases dramatically due to air resistance and weight. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "According to feedback from Rivian owners in the Pebble Community, towing a 5,500 lbs travel trailer with a Rivian R1S typically results in an efficiency of 0.8 to 1.2 miles per kWh. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The preliminary data reported by the R1S towing a 6,200 lbs Pebble Flow engineering prototype however show that at a constant speed of 55 mph, the average efficiency stands at 1.4 miles per kWh without active propulsion assist. This increases to 1.8 miles per kWh when the active propulsion assist system is activated. While the initial results are promising, we at Pebble are committed to further testing and enhancing performance ahead of production commencement later this year.\n",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "For exclusive insights, test and validation progress, production readiness, and the latest news, we encourage you to subscribe to our newsletter, follow our social media channels, and join the vibrant Pebble Community on Discord, where we share behind-the-scenes glimpses and engage directly with our passionate followers. \n",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e2c3f887-af46-4747-aaa7-092b29751257",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "Like always, thank you for being a part of Pebble’s journey!",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "author": null,
+                "job": null
+              },
+              "id": "quote$222800bc-4740-4e29-9769-74f2d85acca2",
+              "slice_type": "quote",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZZstPBEAALyKYZ8t",
+        "uid": "the-introduction-of-nvidia-drive-orin-system-on-a-",
+        "url": "/post/the-introduction-of-nvidia-drive-orin-system-on-a-",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZZstPBEAALyKYZ8t%22%29+%5D%5D",
+        "tags": ["News", "Tech", "Announcement"],
+        "first_publication_date": "2024-01-07T23:01:21+0000",
+        "last_publication_date": "2024-01-07T23:01:21+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Pebble Powers the Pebble Flow Electric Travel Trailer With NVIDIA DRIVE Orin, Bringing Semi-Autonomous Features to the RV Market",
+          "main_image": {
+            "dimensions": { "width": 4000, "height": 2500 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/6528ae0bfbd9a45bcec81554_Pebble-4ExtColors001BLUE.jpg?auto=format,compress",
+            "id": "ZSiuC_vZpFvOyBVU",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2024-01-08",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "• The introduction of NVIDIA DRIVE Orin system-on-a-chip to the RV space will bring new innovations to the industry to transform the user experience",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "•  Semi-autonomous features like Magic Hitch, powered by NVIDIA technology, will automatically connect the Pebble Flow to the tow vehicle",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$1ccff572-0193-42d7-b71f-926bd39a8b62",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "SUNNYVALE, Calif. – (January 8, 2024)",
+                    "spans": [
+                      { "start": 0, "end": 18, "type": "strong" },
+                      { "start": 18, "end": 37, "type": "em" },
+                      { "start": 18, "end": 37, "type": "strong" }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble, a California-based startup bringing advanced technology to the recreational vehicle (RV) industry, today announced it has selected the NVIDIA DRIVE Orin system-on-a-chip to power its flagship product, the Pebble Flow electric travel trailer, with production starting before the end of 2024.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble’s mission is to bring ease and accessibility to the RV industry by integrating technology that will automate the hardest parts of RVing, reimagining the user experience from the ground up. The Pebble Flow will leverage the power of NVIDIA DRIVE Orin to power these technology integrations and semi-autonomous capabilities, most notably, the Magic Hitch feature, which enables automatic hitching of the travel trailer to the towing vehicle. NVIDIA DRIVE Orin will power a full robotic stack, including perception, planning and control, to make this feature possible. The collaboration represents the first time the RV market will see this level of computing power.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Integrating NVIDIA’s cutting-edge compute power will allow Pebble to develop more features targeting the pain points RV users have struggled with for decades, including parking, hitching and refueling. It will also enable the Pebble Flow to serve as a connected smart home through over-the-air software updates, which will enhance existing and future features through continued innovation for a “tech-first” RV experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“We are a fast-paced startup working within an industry ripe for innovation, and we’re utilizing technology to improve the user experience. We needed a partner that could provide a high-performance, centralized and scalable computing platform that is future-proof and backed by a successful track record of commercial deployment, and we’ve found this with NVIDIA,” said Stefan Solyom, Chief Technology Officer at Pebble. “The NVIDIA DRIVE platform provides the ability to rapidly implement state-of-the-art approaches, and this collaboration will be critical for achieving our goal to reimagine RVing and make it as easy as using an iPhone.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "NVIDIA DRIVE Orin is the world’s highest-performance, automotive-grade, autonomous-vehicle processor. It is a leading choice among today’s global automakers, truckmakers and mobility providers, and delivers up to 254 trillion operations per second of compute power. Pebble will feature",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "this scalable supercomputer in each Pebble Flow travel trailer, making it the most advanced RV on the market. Production will start before the end of 2024.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The startup will showcase the Pebble Flow product at CES 2024 at booth #7023 in the West Hall.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to work, live and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Facebook Instagram Twitter LinkedIn YouTube Discord",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$a50b48fa-5414-4f19-bc22-469c96ef100d",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZXJFiRAAAO98Mm9Y",
+        "uid": "top-tech-to-see-at-ces-2024-meet-the-pebble-flow-the-electric-semi-autonomous-travel-trailer",
+        "url": "/post/top-tech-to-see-at-ces-2024-meet-the-pebble-flow-the-electric-semi-autonomous-travel-trailer",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZXJFiRAAAO98Mm9Y%22%29+%5D%5D",
+        "tags": ["News", "Event"],
+        "first_publication_date": "2023-12-07T22:22:13+0000",
+        "last_publication_date": "2023-12-07T22:34:03+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Top Tech to See at CES 2024: Meet the Pebble Flow, The Electric Semi-Autonomous Travel Trailer",
+          "main_image": {
+            "dimensions": { "width": 11804, "height": 6640 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/65722f12531ac2845a25c9de_Pebble-43Bcopy2.jpg?auto=format,compress",
+            "id": "ZXIvElMawoRaJcne",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2023-12-17",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "list-item",
+                    "text": "The Pebble Flow, equipped with advanced robotics and EV technology, sets a new standard as the world's first self-propelled travel trailer featuring automated hitching and remote maneuvering capabilities",
+                    "spans": [{ "start": 0, "end": 203, "type": "em" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "The travel trailer includes the world’s first dual-motor active propulsion assist system that enables easier, safer towing and achieves better mileage and longer range",
+                    "spans": [{ "start": 0, "end": 167, "type": "em" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "The Pebble Flow operates on 100% electric power with integrated solar and a massive EV battery, ensuring off-grid capabilities for up to 7 days and serving as a reliable energy backup to power the entire house for extended periods",
+                    "spans": [{ "start": 0, "end": 230, "type": "em" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "At CES, attendees can experience the Pebble Flow at booth 7023 in the West Hall",
+                    "spans": [{ "start": 0, "end": 79, "type": "em" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$3dba7736-3126-43db-bc3a-e0090754db65",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 4000, "height": 2668 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/6572447c531ac2845a25ca3b_Pebble-16copy2.jpg?auto=format,compress",
+                    "id": "ZXJEfFMawoRaJco7",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                },
+                {
+                  "image": {
+                    "dimensions": { "width": 4000, "height": 2668 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/65724471531ac2845a25ca3a_Pebble-10copy.jpg?auto=format,compress",
+                    "id": "ZXJEcVMawoRaJco6",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                },
+                {
+                  "image": {
+                    "dimensions": { "width": 4000, "height": 2668 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/65724467531ac2845a25ca39_Pebble-14copy4.jpg?auto=format,compress",
+                    "id": "ZXJEZ1MawoRaJco5",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                },
+                {
+                  "image": {
+                    "dimensions": { "width": 4000, "height": 2668 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/65724492531ac2845a25ca3c_CopyofPebble-7copy.jpg?auto=format,compress",
+                    "id": "ZXJEklMawoRaJco8",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$2f54552c-247f-4ee6-9d60-1ca75ebf3827",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "LAS VEGAS — Pebble, a California-based startup defining a new way to work, live, and explore from anywhere, will be showcasing its new flagship product at CES: The Pebble Flow, a 100% electric, semi-autonomous travel trailer.",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The RV industry has long been overdue for innovation and modernization. Traditional RVs and travel trailers have many problems, from outdated technology and stressful towing and hitching to constant maintenance needs. There is a rising demand for an RV that is sustainable, user-friendly, and supports the growing work-from-anywhere generation.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Enter the Pebble Flow. This travel trailer features the world’s first dual-motor active propulsion assist system that enables the Pebble Flow to propel itself for a safe and effortless towing experience for both gas and electric vehicles. The Pebble Flow is the travel trailer of the electric age, and as many consumers choose an EV as their primary personal vehicle, this travel trailer will be accessible without range anxiety. The dual-motor drivetrain, with advanced computer vision and robotics software, also allows for automatic hitching to the tow vehicle and remote-controlled parking and maneuvering, skillfully navigating into tight spots once it's unhooked from the hitch. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "It’s like a smart home on wheels – integrating total control of the RV experience through the Pebble App. On it, users can not only manage the above tech features with the push of a button but also interior features like lighting, temperature and door locks as well as status monitoring of water tank levels, energy consumption and battery state of charge. The Pebble Flow is also equipped with an efficient and quiet HVAC system and is plug-and-play ready for Starlink, ensuring digital nomads stay connected and comfortable no matter where the journey takes them.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The travel trailer is designed to have everything needed for space efficiency, flexibility and comfort. Many features are dual-purpose, like the Room Flip with a retractable Murphy bed that will allow for a transition from leisure time to work time in a matter of seconds, or the removable induction cooktop for inside or outdoor cooking. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "As the most technically advanced travel trailer on the market developed by Apple, Tesla, Rivian, Zoox and Volvo veterans, the Pebble Flow aims to bring the ease of use of an iPhone to the RVing experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "At CES, attendees will be able to check out the Pebble Flow with a full tour at booth #7023 in the West Hall. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow has a starting price of $109,000 and is expected to ship by the end of 2024. Preorders are available at pebblelife.com/preorder with a $500 fully refundable deposit.",
+                    "spans": [
+                      {
+                        "start": 120,
+                        "end": 143,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/preorder",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If you are interested in revolutionizing the industry and creating the best possible RVing experience with the most advanced technology, the Pebble team is hiring. Learn more about the company, the team and see the current open positions at https://pebblelife.com/company. ",
+                    "spans": [
+                      {
+                        "start": 241,
+                        "end": 271,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pebblelife.com/company",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$89bde641-d559-4542-9104-e51e929a3080",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com or check out the Brand Video and Digital Premiere Video. ",
+                    "spans": [
+                      {
+                        "start": 380,
+                        "end": 394,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 412,
+                        "end": 423,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://youtu.be/bF5ukpi7VYw%20https://youtu.be/bF5ukpi7VYw",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 428,
+                        "end": 450,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pbbl.cc/livestream",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Follow Pebble on Social ",
+                    "spans": [{ "start": 0, "end": 24, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To receive real-time updates and learn more about Pebble, subscribe to the newsletter at pebblelife.com or check out the team on Twitter, LinkedIn, Instagram, Facebook, Discord, and Youtube.",
+                    "spans": [
+                      {
+                        "start": 89,
+                        "end": 103,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pebblelife.com",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 129,
+                        "end": 136,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://twitter.com/PebbleLife",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 138,
+                        "end": 146,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.linkedin.com/company/pebblelife/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 147,
+                        "end": 157,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.instagram.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 159,
+                        "end": 167,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.facebook.com/pebblenow/",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 169,
+                        "end": 177,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://pbbl.cc/discord",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 182,
+                        "end": 189,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.youtube.com/@PebbleLife",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": false
+              },
+              "id": "content$6ba207d5-b9f0-43ce-a85f-25c616a3808e",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Top Tech to See at CES 2024: Meet the Pebble Flow, The Electric Semi-Autonomous Travel Trailer",
+          "meta_description": "Top Tech to See at CES 2024: Meet the Pebble Flow, The Electric Semi-Autonomous Travel Trailer",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/6572457d531ac2845a25ca43_Pebble-43Bcopy2.jpg?auto=format%2Ccompress&rect=0%2C221%2C11804%2C6197&w=2400&h=1260",
+            "id": "ZXJFfVMawoRaJcpD",
+            "edit": { "x": 0, "y": 221, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZS6XZRIAAOkf2DBs",
+        "uid": "introducing-the-pebble-flow",
+        "url": "/post/introducing-the-pebble-flow",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS6XZRIAAOkf2DBs%22%29+%5D%5D",
+        "tags": ["Tech", "News"],
+        "first_publication_date": "2023-10-18T08:30:33+0000",
+        "last_publication_date": "2023-10-19T23:11:07+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Introducing the Pebble Flow: The All-Electric Travel Trailer That’s Bringing an iPhone-like Experience to RVing",
+          "main_image": {
+            "dimensions": { "width": 3814, "height": 2554 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format,compress",
+            "id": "ZS3XxPvZpFvOyBdU",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Ivan Wang",
+          "date": "2023-10-19",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "list-item",
+                    "text": "Pebble is unveiling its flagship product, an all-electric travel trailer that allows users to seamlessly live, work and explore from anywhere",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "The Pebble Flow includes an active propulsion assist system and renewable energy capacity to stay off-grid for up to 7 days, with thoughtful design and industry-first innovation that remove the legacy hassles of RVing",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Pebble will be debuting its all-electric travel trailer at the LA Auto Show in November",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Pre-orders for the Pebble Flow are now available, with a starting cost of $109,000, and are expected to ship by the end of 2024",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sunnyvale, CA - October 19, 2023 – Pebble, a California-based startup defining a new way to work, live and explore from anywhere, is today unveiling its flagship 100% electric, travel trailer: the Pebble Flow.",
+                    "spans": [{ "start": 0, "end": 32, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Created with the intention to introduce a new user experience, Pebble is using innovative technology to advance the RV industry toward sustainability, while making RVing easier and more accessible. The Pebble Flow is self-propelled, providing just the right amount of power required to assist the tow vehicle, removing the range anxiety common with EV towing. With the inclusion of other intelligence features, Pebble is automating the hardest parts of RVing. As the most technically advanced travel trailer on the market developed by Apple, Tesla, Cruise, Zoox and Volvo veterans, the Pebble Flow aims to bring the ease of use of an iPhone to the RVing experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "\"The Pebble Flow embodies a new era in RVing - one that's sustainable and frictionless. We're embracing advancements in electrification and automotive technology to streamline the end-to-end experience,”  said Bingrui Yang, the Founder and CEO of Pebble. “We’re taking away all of the hassles of RVing to help more nature lovers achieve a freer, lighter, lifestyle.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow’s dimensions are  25’ L, 7’6”  W, and 8’8” H with a required towing capacity of 6,200 lbs.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$434bd05a-46de-4f37-8fb3-ee845a19c947",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "100% Electric",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow is 100% electric, leading the industry towards a sustainable future.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "45 kWh LFP battery: Has the safest EV battery chemistry on the market with enough capacity to power all of the trailer's appliances.",
+                    "spans": [{ "start": 0, "end": 20, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Universal Charging: Charge how you want. AC/DC charging at public charging stations, at home, or at camp, solar charging for up to a week of off-grid power, and regenerative charging to generate power while you tow it.",
+                    "spans": [{ "start": 0, "end": 19, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "1kW Integrated Solar: Allows for self-charging on the go or when parked, so it's always topping off its power supply. It's like being perpetually plugged into a 110V outlet.",
+                    "spans": [{ "start": 0, "end": 21, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Emergency Battery Use Case: Best of all, the Pebble Flow is never idle. When parked at home, it can be used as an emergency backup source.",
+                    "spans": [{ "start": 0, "end": 27, "type": "strong" }],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$e0d03caa-b173-403f-ad9a-b210b1d0fca7",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Simplifying the Hardest Parts of RVing",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "RV owners have been tolerating the same inconveniences for years: stressful towing and hitching experiences, constant maintenance, and parking a large trailer in tight spaces. The Pebble Flow includes advanced technology that has never been seen before in the RV industry to simplify the hardest parts of RVing and eliminate long-standing hassles.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Easy Tow: With Pebble Flow’s dual-motor Active Propulsion Assist System, towing is finally safe and effortless, whether you’re towing with an SUV or a pick-up truck, a gas vehicle or an EV. No more range anxiety.",
+                    "spans": [{ "start": 0, "end": 9, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Magic Hitch: Never struggle with a hitch again. The Pebble Flow positions itself and automatically hitches onto the towing vehicle.",
+                    "spans": [{ "start": 0, "end": 12, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "InstaCamp: The push of a button deploys or retracts an awning, stairs, lights, and auto-leveling stabilizers to set up camp or get back on the road in seconds.",
+                    "spans": [{ "start": 0, "end": 10, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Remote Control: Never back up again. Once unhooked from the hitch, the Pebble Flow is fully remote-controlled for easy parking and maneuvering, effortlessly pivoting and positioning itself into tight spots.",
+                    "spans": [{ "start": 0, "end": 16, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "All of these features are controlled by the Pebble app, giving users control over every part of the RVing journey from the palm of their hand. Operating the Pebble Flow will be similar to the first time operating an iPhone - there’s no manual required,  it just works.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“So many people will never embark on an RV trip simply because they are intimidated by how to do it. The combination of advanced modern EV features and the Pebble app makes RVing easier than ever, whether you’re a seasoned RVer or just starting out,” said Stefan Solyom, Pebble’s CTO.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$4c708491-3713-4e62-b417-3e021a12f4a6",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Designed for Work, Relaxation and Exploration",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Customers can look forward to updated features that add comfort in a minimalistic design that doesn’t overpower their natural surroundings.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Room Flip: The Pebble Flow has a sleeping capacity to fit up to 4 people, and flexible furnishings mean that the Murphy bed retracts into a desk to transition from relaxation to work mode in seconds.",
+                    "spans": [{ "start": 0, "end": 11, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Aerodynamic Design: The modern silhouette of the Pebble Flow not only enhances aesthetics but also reduces drag, leading to better mileage and extended range. This, in turn, contributes to an overall safer towing experience.",
+                    "spans": [{ "start": 0, "end": 19, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "A Chef’s Kitchen: Elevate campsite meals with a removable induction cooktop, a 4-in-1 convection microwave and a full-size fridge. The flip-up service window gives flexibility to cook inside or al fresco.",
+                    "spans": [{ "start": 0, "end": 17, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Connectivity: The Pebble Flow is plug-and-play ready for Starlink to keep digital nomads connected wherever their journey takes them. The Pebble app controls lights, locks and unlocks the door, sets the preferred temperature, and more.",
+                    "spans": [{ "start": 0, "end": 14, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Wrap-Around Windows: The windows give a 270-degree view of the surroundings.",
+                    "spans": [{ "start": 0, "end": 21, "type": "strong" }],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "“RVing is more than a vacation – it's exploring, it’s working, it’s spending time with your family. We’ve designed the Pebble Flow so you can do all of that from anywhere in a modern, sleek and durable travel trailer,” said Page Beermann, Head of Design. “The Pebble Flow gives you everything you need and nothing you don’t while complementing nature, not competing with it.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$064a2248-4769-4cd3-b111-4ea7b2344124",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "Preorder the Pebble Flow",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow with the Magic Pack will be available starting at $125,000. The Magic Pack boasts a powerful dual-motor drivetrain and bundles a set of world-first features, including Remote Control, Magic Hitch, Easy Tow and more for the full Pebble experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow will be available starting at $109,000. This is a well-equipped travel trailer that goes beyond all-electric, including modern automotive construction, industry-leading aerodynamic performance and a generous 45 kWh EV battery that all come standard.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Anyone interested can sign up today to preorder the Pebble Flow which is expected to ship by the end of 2024. ",
+                    "spans": [
+                      {
+                        "start": 39,
+                        "end": 47,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pebblelife.com/preorder",
+                          "target": "_blank"
+                        }
+                      },
+                      { "start": 39, "end": 47, "type": "strong" }
+                    ],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Join the Pebble Community to interact with the Pebble team, provide feedback & ideas, and meet other enthusiasts.",
+                    "spans": [
+                      {
+                        "start": 9,
+                        "end": 25,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://pbbl.cc/discord",
+                          "target": "_blank"
+                        }
+                      },
+                      { "start": 9, "end": 25, "type": "strong" }
+                    ],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$bf7c3f54-97c4-49bf-a4cd-5cb3124c0838",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "See the Pebble Flow Live",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble will be hosting a press conference at Automobility LA on 11/16, followed by the Pebble Flow’s physical debut at the LA Auto Show starting 11/17 to 11/26.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$af098ec5-3b59-4f4b-b72d-8857682c7e70",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$2e55a5b0-7bf4-4c29-b0d2-9205993884bd",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Introducing the Pebble Flow: The All-Electric Travel Trailer That’s Bringing an iPhone-like Experience to RVing",
+          "meta_description": "Pebble, a California-based startup defining a new way to work, live and explore from anywhere, is today unveiling its flagship 100% electric, travel trailer: the Pebble Flow.",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652cce5bfbd9a45bcec816dc_CopyofPebble-33copy3.jpg?auto=format%2Ccompress&rect=0%2C47%2C2500%2C1313&w=2400&h=1260",
+            "id": "ZSzOW_vZpFvOyBbc",
+            "edit": { "x": 0, "y": 47, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZPbq9BIAACEAba0A",
+        "uid": "pebble-flow-first-of-its-kind-rv",
+        "url": "/post/pebble-flow-first-of-its-kind-rv",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZPbq9BIAACEAba0A%22%29+%5D%5D",
+        "tags": ["News", "co-creation"],
+        "first_publication_date": "2023-09-05T08:47:05+0000",
+        "last_publication_date": "2023-10-25T14:16:27+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Stefan Solyom, Pebble CTO, is trekking new territory to create a first-of-its-kind smart RV.",
+          "main_image": {
+            "dimensions": { "width": 1024, "height": 1024 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652b0e3cfbd9a45bcec81659_ss.jpg?auto=format,compress",
+            "id": "ZSsOPPvZpFvOyBZZ",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Stefan Solyom",
+          "date": "2023-10-19",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "heading2",
+                    "text": "Introducing the Pebble App: ",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "heading2",
+                    "text": "The RV Experience at your Fingertips",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Our number one goal in creating the Pebble Flow was to make RVing easier. That mission involves more than just the hardware, but what makes the hardware work so seamlessly. With this goal in mind, we've harnessed the power of cutting-edge technology, robotic software, and artificial intelligence (AI) to create a set of groundbreaking, world-first intelligent features that automate the hardest parts of RVing.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Our first stride was to build an exceptionally smart and capable RV, but what follows is equally crucial—creating an iPhone-like, intuitive experience for our customers. The solution to this is the Pebble App, designed to ensure that you don't need to be a tech guru to savor the magic of the Pebble Flow. If you can comfortably use an iPhone, you'll find operating the Pebble Flow just as effortless.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App serves as your command center and the gateway to all the intelligence integrated into the Pebble Flow. I’d like to take you through my favorite features of the Pebble App and show you how it can truly elevate your adventure within the Pebble Flow.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "I’ll start with the why. The Pebble App was born out of a desire to redefine your interaction with your vehicle. It's not just about convenience; it's about creating an entirely new, user-friendly way to operate your RV. You’ll be RVing like never before.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Everything you need is in the palm of your hand. From interior features like temperature control, dimmable lighting, and monitoring the level of your battery state of charge (SoC) and water tanks to high-tech controls like InstaCamp, Remote Control, Magic Hitch, and even checking your solar charge. The app makes RVing very simple and intuitive.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Another plus? No internet, no problem. All communication necessary for Pebble Flow's functions is kept within a local network, bypassing the need for cloud or internet service providers. This localized communication enables Pebble Flow's features to operate seamlessly, regardless of your location, even in remote areas.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let’s move on to the how. Over everything else, we understand simplicity is key. That's why we offer two access points to the Pebble App: your smartphone and the detachable iPad Mini that comes with the Pebble Flow. The phone provides on-the-go control, for access whenever you need it. The iPad offers a more spacious interface to display information. The choice is yours, ensuring you always have control of the Pebble Flow at your fingertips.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "My personal favorite part of the Pebble Flow and the Pebble App is that, unlike typical vehicles that become outdated and lose value the second you drive off the lot, the Pebble Flow isn't static; it's a dynamic platform that evolves as you use it. Through Over-The-Air (OTA) updates, we’ll continually add new features and refine existing ones. Your Pebble Flow will get smarter and smarter.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App incorporates state-of-the-art security measures, validated and tested in the automotive industry. We are very conscious that your data is handled with care, and layers of security ensure that accessing your vehicle remains a safe and controlled process.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App is currently available on iOS, we're actively working towards making the Pebble App compatible with Android, ensuring that no matter your device preference, the Pebble Experience is accessible to all.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$459c6ad8-bdea-4222-8b4d-d32283f97969",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      },
+      {
+        "id": "ZS6VlxIAALUg2Ci5",
+        "uid": "introducing-the-pebble-app",
+        "url": "/post/introducing-the-pebble-app",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS6VlxIAALUg2Ci5%22%29+%5D%5D",
+        "tags": ["Tech", "News"],
+        "first_publication_date": "2023-10-17T14:09:53+0000",
+        "last_publication_date": "2023-10-18T08:31:15+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Introducing the Pebble App: The RV Experience at your Fingertips",
+          "main_image": {
+            "dimensions": { "width": 4000, "height": 2668 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e2fdafbd9a45bcec81767_Pebble-17copy3.jpg?auto=format,compress",
+            "id": "ZS4v2vvZpFvOyBdn",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Stefan Solyom",
+          "date": "2023-10-17",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Our number one goal in creating the Pebble Flow was to make RVing easier. That mission involves more than just the hardware, but what makes the hardware work so seamlessly. With this goal in mind, we've harnessed the power of cutting-edge technology, robotic software, and artificial intelligence (AI) to create a set of groundbreaking, world-first intelligent features that automate the hardest parts of RVing.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Our first stride was to build an exceptionally smart and capable RV, but what follows is equally crucial—creating an iPhone-like, intuitive experience for our customers. The solution to this is the Pebble App, designed to ensure that you don't need to be a tech guru to savor the magic of the Pebble Flow. If you can comfortably use an iPhone, you'll find operating the Pebble Flow just as effortless.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App serves as your command center and the gateway to all the intelligence integrated into the Pebble Flow. I’d like to take you through my favorite features of the Pebble App and show you how it can truly elevate your adventure within the Pebble Flow.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "I’ll start with the why. The Pebble App was born out of a desire to redefine your interaction with your vehicle. It's not just about convenience; it's about creating an entirely new, user-friendly way to operate your RV. You’ll be RVing like never before.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Everything you need is in the palm of your hand. From interior features like temperature control, dimmable lighting, and monitoring the level of your battery state of charge (SoC) and water tanks to high-tech controls like InstaCamp, Remote Control, Magic Hitch, and even checking your solar charge. The app makes RVing very simple and intuitive.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Another plus? No internet, no problem. All communication necessary for Pebble Flow's functions is kept within a local network, bypassing the need for cloud or internet service providers. This localized communication enables Pebble Flow's features to operate seamlessly, regardless of your location, even in remote areas.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let’s move on to the how. Over everything else, we understand simplicity is key. That's why we offer two access points to the Pebble App: your smartphone and the detachable iPad Mini that comes with the Pebble Flow. The phone provides on-the-go control, for access whenever you need it. The iPad offers a more spacious interface to display information. The choice is yours, ensuring you always have control of the Pebble Flow at your fingertips.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "My personal favorite part of the Pebble Flow and the Pebble App is that, unlike typical vehicles that become outdated and lose value the second you drive off the lot, the Pebble Flow isn't static; it's a dynamic platform that evolves as you use it. Through Over-The-Air (OTA) updates, we’ll continually add new features and refine existing ones. Your Pebble Flow will get smarter and smarter.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App incorporates state-of-the-art security measures, validated and tested in the automotive industry. We are very conscious that your data is handled with care, and layers of security ensure that accessing your vehicle remains a safe and controlled process.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble App is currently available on iOS, we're actively working towards making the Pebble App compatible with Android, ensuring that no matter your device preference, the Pebble Experience is accessible to all.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$3fea3c03-e5c0-4234-ab89-bbd11cc777fd",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Introducing the Pebble App: The RV Experience at your Fingertips",
+          "meta_description": "Our number one goal in creating the Pebble Flow was to make RVing easier. That mission involves more than just the hardware, but what makes the hardware work so seamlessly.",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e2fdafbd9a45bcec81767_Pebble-17copy3.jpg?auto=format%2Ccompress&rect=0%2C284%2C4000%2C2100&w=2400&h=1260",
+            "id": "ZS4v2vvZpFvOyBdn",
+            "edit": { "x": 0, "y": 284, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZS5ntxIAANUg10SY",
+        "uid": "pebble-to-unveil-design-and-features-of-all-electric-travel-trailer",
+        "url": "/post/pebble-to-unveil-design-and-features-of-all-electric-travel-trailer",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS5ntxIAANUg10SY%22%29+%5D%5D",
+        "tags": ["News", "Event"],
+        "first_publication_date": "2023-10-17T10:53:47+0000",
+        "last_publication_date": "2023-10-18T08:44:06+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Pebble to Unveil Design and Features of All-Electric Travel Trailer ‘Pebble Flow’ During Digital World Premiere Oct. 19",
+          "main_image": {
+            "dimensions": { "width": 1400, "height": 788 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e900efbd9a45bcec817b4_Blog1_title.jpg?auto=format,compress",
+            "id": "ZS6QDvvZpFvOyBe0",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2023-09-28",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Sunnyvale, CA — Sept 28, 2023 — Pebble, a California-based startup defining a new way to work, live, and explore from anywhere, announces today that it will soon reveal the details of its flagship product, the Pebble Flow: a modern all-electric, hassle-free travel trailer. The founding team includes former leaders from Apple, Tesla, Volvo, and more who are bringing their automotive and consumer technology expertise to redefine the RVing experience. During the digital world premiere, which will air on October 19th at 10 am PT/1 pm ET, the team will reveal the design, electrification, and technological features that are bringing innovation to the RV industry.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$13e60ca4-35bf-4091-a6f9-db9e3e50f94e",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 934 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e901cfbd9a45bcec817b5_Blog1_image.jpg?auto=format,compress",
+                    "id": "ZS6QHPvZpFvOyBe1",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$eaa0bbca-2e26-452e-afe5-c2dfe75f75c2",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "The Pebble Flow was designed to make life on the road more accessible and the overall RV experience more enjoyable. The interior is architectured with flexible furnishings and within seconds users will be able to switch from relaxation to work to adventure mode.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is making RVing a more sustainable lifestyle. The Pebble Flow is 100% electric, powered by a generous EV battery and an integrated solar system, and will hold enough power to allow users to stay off-grid for up to 7 days before the need to recharge. Every technical feature embedded in the Pebble Flow is designed to make RVing less cumbersome and will bring ease to things like hitching, towing, and setting up camp. Users can expect an iPhone-like experience to navigate these features — no owner’s manual is required.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The digital world premiere of the Pebble Flow will be held on October 19, 2023 at 10 am PT/ 1 pm ET on our website. Visit pebblelife.com to subscribe to Pebble’s newsletter for updates and to stream the world premiere.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$042dd818-fbf9-4c65-a318-340556489c6c",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to live, work and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$883bba47-2661-4933-8a2f-e63477e22027",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Pebble to Unveil Design and Features of All-Electric Travel Trailer ‘Pebble Flow’ During Digital World Premiere Oct. 19",
+          "meta_description": "Sunnyvale, CA — Sept 28, 2023 — Pebble, a California-based startup defining a new way to work, live, and explore from anywhere, announces…",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e66bcfbd9a45bcec8177d_Blogtitle1.webp?auto=format%2Ccompress&rect=0%2C27%2C1400%2C735&w=2400&h=1260",
+            "id": "ZS5mvPvZpFvOyBd9",
+            "edit": { "x": 0, "y": 27, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZS5r_BIAANUg11mM",
+        "uid": "co-creating-the-future-of-rving",
+        "url": "/post/co-creating-the-future-of-rving",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS5r_BIAANUg11mM%22%29+%5D%5D",
+        "tags": ["Community", "co-creation"],
+        "first_publication_date": "2023-10-17T11:11:58+0000",
+        "last_publication_date": "2023-10-18T11:45:43+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Co-Creating the Future of RVing",
+          "main_image": {
+            "dimensions": { "width": 1400, "height": 933 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e90fffbd9a45bcec817ba_Blog3_image2.jpg?auto=format,compress",
+            "id": "ZS6Q__vZpFvOyBe6",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble Community",
+          "date": "2023-08-14",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Steve Jobs once said, “Great things in business are never done by one person. They’re done by a team of people.” As we are on a mission to build the “iPhone of electric RVs”, we would like to invite like-minded technology enthusiasts, seasoned RVers, digital nomads, and more to join the Pebble Co-creation Program, an opportunity to experience Pebble products ahead of everyone else, provide feedback, contribute creative ideas, and see them become reality. Let’s “co-create” the future of RVing, transforming it into a lifestyle that embraces flexibility, enjoyment, sustainability, and accessibility for all.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$c8fe83d2-0db7-48d4-9c50-c428160fbf41",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 788 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e9088fbd9a45bcec817b8_Blog2_title.jpg?auto=format,compress",
+                    "id": "ZS6QiPvZpFvOyBe4",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$8e8191f9-a388-4db4-bb59-6faa82d2f831",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "RVing Reimagined",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "What if you could take a piece of home with you whenever you wanted, and plug into a lifestyle of freedom wherever you desired? At Pebble, this is more than just a fleeting thought — it’s our mission. The RV industry has long been known for its resistance to adopting modern technology Pebble was born to change this stagnant landscape. For decades, RVers have faced numerous hassles, from outdated designs, poor towing experience, inefficient systems, limited power and connectivity to a lack of sustainable options. These challenges have indeed the full potential of the RV lifestyle and prevented enthusiasts from embracing the get-up-and-go freedom that it promises.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "At Pebble, user experience lies at the very heart of our endeavors. We go beyond simply integrating technology for the sake of boasting about it. Instead, we harness the power of technology to tackle pain points, fix problems, and deliver a product that not only caters to the needs of our users but also respects and benefits the environment. When we say Pebble is a “Hassle-free RV”, it’s not just a catchy marketing phrase. RVing should be a source of joy and freedom, unburdened by complicated systems or cumbersome setup processes. Our team of dedicated engineers and designers invests tremendous effort in crafting products that are intuitive, user-friendly, and effortlessly operable. Everyone, regardless of their level of RV knowledge and experience, should be able to confidently and comfortably enjoy their Pebble.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$68ad9795-0606-4c06-8155-25485af49471",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 1867 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e9114fbd9a45bcec817bb_Blog3_image.jpg?auto=format,compress",
+                    "id": "ZS6RFPvZpFvOyBe7",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$51dad5ea-70bd-4a97-a3a5-1f483d7bff7f",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "The Potential of We",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "If you’re a passionate RVer, digital nomad, content creator, remote worker, or enthusiast who values freedom but has been dissatisfied with the user experience offered by current products, we warmly invite you to join us as a Pebble Co-creator and transform your ideas into reality.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "As one of the pioneering Pebble Co-creators, you will be granted exclusive access to a range of exciting opportunities and events. Join us at our quarterly co-creation workshops, where you can actively contribute your insights and ideas. Embark on exclusive HQ tours, granting you behind-the-scenes access to our innovative design and development processes, and connect with the visionaries behind Pebble.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Moreover, as a valued Pebble Co-creator, you will enjoy the privilege of early access to our highly anticipated Pebble RV, set to launch this fall. Your opinions and ideas will play an important role in our design and development journey, ensuring the final Pebble product delivers an RVing experience that exceeds expectations and caters to the diverse needs of RVers like you.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Seize this unique opportunity to be at the forefront of innovation by filling out the application form. We will carefully review your information, and if you meet our requirements, we will reach out to you for the next steps. If you’re not selected in the first round, please understand that we’re taking a phased approach as we scale, and be on the lookout for our next round of program expansion.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$ca23e222-cb58-4d80-9994-1f874ef32844",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 2549, "height": 1445 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e912ffbd9a45bcec817bc_Frame6345579.png?auto=format,compress",
+                    "id": "ZS6RL_vZpFvOyBe8",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$a06956e3-cb0c-4cb3-a96e-5be484ceae5a",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Not ready to become a co-creator just yet? No worries! We warmly invite you to join the Pebble Community on Discord. You can learn more about us, ask questions, interact with the Pebble team and fellow Pebblers, and share all things RVing, Camping, and Nomad Life. We value your participation and look forward to seeing you there!",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "As a community-driven brand, we look forward to building a new community for all Pebblers. Together, let’s shape the future of RVing, celebrate freedom, and embrace innovation.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If you haven’t already, make sure to subscribe to our newsletter at pebblelife.com and follow us on social media to stay up to date with the latest news, updates, and announcements from Pebble.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$affcc460-3bcb-4a52-884b-dedfaee396fa",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 933 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e90fffbd9a45bcec817ba_Blog3_image2.jpg?auto=format,compress",
+                    "id": "ZS6Q__vZpFvOyBe6",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$bfe70e13-9256-4287-8dd8-2e71320eaeba",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to work, live and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. Learn more at pebblelife.com",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$9d6f2ebb-d8a4-4d52-b38b-a5f6c26e381e",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Co-Creating the Future of RVing",
+          "meta_description": "Steve Jobs once said, “Great things in business are never done by one person. They’re done by a team of people.” As we are on a mission to…",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e6acafbd9a45bcec81787_1_Qtcwfon_He_QZQNTmfe7DA.webp?auto=format%2Ccompress&rect=0%2C99%2C1400%2C735&w=2400&h=1260",
+            "id": "ZS5qyvvZpFvOyBeH",
+            "edit": { "x": 0, "y": 99, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZS5qXRIAAOkf11G0",
+        "uid": "former-apple-tesla-and-zoox-execs-unveil-pebble",
+        "url": "/post/former-apple-tesla-and-zoox-execs-unveil-pebble",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS5qXRIAAOkf11G0%22%29+%5D%5D",
+        "tags": ["News", "co-creation"],
+        "first_publication_date": "2023-10-17T11:05:19+0000",
+        "last_publication_date": "2023-10-18T13:19:58+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Former Apple, Tesla and Zoox Execs Unveil Pebble: the Future of Modern Living, Powered by a Hassle-free RV Experience that Goes Well Beyond All-Electric",
+          "main_image": {
+            "dimensions": { "width": 1400, "height": 788 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e9088fbd9a45bcec817b8_Blog2_title.jpg?auto=format,compress",
+            "id": "ZS6QiPvZpFvOyBe4",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Pebble PR",
+          "date": "2023-06-08",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "list-item",
+                    "text": "The company comes out of stealth with $13.6M in seed + Series A funding from Lightspeed, Vision+ and UpHonest Capital",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "list-item",
+                    "text": "Pebble’s forthcoming flagship product is a 100% electric, hassle-free RV built to automate the hardest parts of RVing and make the experience more accessible",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "SUNNYVALE, CA — (June 13th, 2023) — Today, Pebble, a California-based startup, comes out of stealth with its plans to develop a hassle-free electric RV experience designed for a new way to live, work and explore. The company has raised $13.6M from Lightspeed, Vision+ and UpHonest Capital to bring innovation to the RV industry that has seen few technological advancements in the past 50 years.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "For many Americans, RVing is no longer a vacation — it’s a lifestyle. The RV Industry Association reports that two out of five new buyers purchased their RV because they wanted a place to stay and explore the outdoors while still having access to their work. However, traditional RVs and travel trailers come with a set of problems, including insufficient energy storage, outdated technology and design, poor towing experience, high fuel costs, constant maintenance and safety issues. As the national conversation shifts towards renewable energy and younger generations pledge to make more eco-friendly choices, there is a rising demand for an RV that is sustainable, user-friendly, and supports the growing work-from-anywhere generation.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble was born to remove the hassles that RVers have struggled with for decades and make it more accessible to achieve a lighter and freer lifestyle. Never before seen in the RV industry, Pebble integrates some of the most advanced automotive and electric vehicle technology available today to streamline the user experience. The interior is designed as a fully furnished, eco-friendly living space equipped with everything users need to work, sleep, explore and relax comfortably. It’s powered by renewable energy sources with an energy capacity that allows users to live off-grid for up to seven days.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$9c02f824-5cd5-4e99-8750-572f8fde9cc1",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "“Pebble was developed to create a hassle-free way to live, work and explore,” said Bingrui Yang, CEO and founder of Pebble. “Consumers have been stuck with the same RV experience for decades. A lot of people want to get into such a lifestyle of freedom but are turned off by the pain points in today’s products. At Pebble, we are automating the hardest parts of the RV experience with the same technologies that power the most advanced automotive innovations, making the whole experience simply effortless and magical. If you know how to use an iPhone, you’ll be comfortable using our product.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "author": null,
+                "job": null
+              },
+              "id": "quote$e73fcd42-32c8-4143-bf69-83926ca072fd",
+              "slice_type": "quote",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble’s mission has attracted an expert team of executives, advisors, engineers, and designers. As the founder, Yang brings dual experience in automotive and consumer electronics to his vision of defining a new category in electric RVing. He holds a deep understanding of cutting-edge automotive technology, having led hardware development for autonomous vehicle companies Cruise, backed by General Motors, and Zoox, backed by Amazon. Prior, he had a 9-year tenure at Apple leading iPhone development and creating the magical iPhone experience that brings surprise and delight to customers.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$86511e1d-1f67-46d2-922b-b96dc14f67dc",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 946 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e9096fbd9a45bcec817b9_Blog2_image.jpg?auto=format,compress",
+                    "id": "ZS6QlvvZpFvOyBe5",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$b7406543-91cd-4bb0-ac5b-0a5383837f0c",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Yang is joined by Chief Technology Officer Stefan Solyom, who brings over 20 years of experience in the automotive and tech industries. Solyom was a founding member of the Tesla Autopilot team and spent 7 years at Apple and 10 years at Volvo Cars as a top technical leader focused on safety and autonomous systems. Alongside Yang and Solyom, the rest of the Pebble team brings additional expertise from Cruise, Lucid Motors and other leading technology and automotive companies.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$6473d954-588a-4268-b069-d02abf6eb5db",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "text": [
+                  {
+                    "type": "paragraph",
+                    "text": "“At Pebble, I can see the influence of Apple’s culture and approach. Pebble’s focus on applying cutting-edge tech in service of design, simplicity, and user experience rather than for its own sake is reminiscent of the core values that have made Apple a leader in the tech industry,” said Dave Rosenthal, a former executive at Apple and advisor for Pebble. “The RV industry has been relatively stagnant for decades and it’s exciting to see Pebble moving it forward in huge leaps.”",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "author": null,
+                "job": null
+              },
+              "id": "quote$39b3ae6b-0d20-462d-9147-a14a47707609",
+              "slice_type": "quote",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "More details about the Pebble Vehicle will be unveiled later this year. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$2bdd7cc7-d290-44a7-ab24-df324dd05e79",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [
+                  {
+                    "type": "paragraph",
+                    "text": "About Pebble",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pebble is a California-based startup defining a new way to work, live and explore from anywhere with a 100% electric, hassle-free RV. Built by a team of experts in both automotive and consumer technology, Pebble combines electrification with cutting-edge automotive technology for an RV experience that removes the hassles RV owners have struggled with for decades. ",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$66159c5b-2fb1-46c2-953a-31339d915310",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": "Former Apple, Tesla and Zoox Execs Unveil Pebble: the Future of Modern Living, Powered by a Hassle-free RV Experience that Goes Well Beyond All-Electric",
+          "meta_description": "The company comes out of stealth with $13.6M in seed + Series A funding from Lightspeed, Vision+ and UpHonest Capital",
+          "meta_image": {
+            "dimensions": { "width": 2400, "height": 1260 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/652e6915fbd9a45bcec81783_blogtitle2.webp?auto=format%2Ccompress&rect=0%2C27%2C1400%2C735&w=2400&h=1260",
+            "id": "ZS5pFfvZpFvOyBeD",
+            "edit": { "x": 0, "y": 27, "zoom": 1, "background": "transparent" }
+          }
+        }
+      },
+      {
+        "id": "ZS5t0xIAAO4m12I9",
+        "uid": "introducing-pebble-where-home-meets-the-road",
+        "url": "/post/introducing-pebble-where-home-meets-the-road",
+        "type": "post",
+        "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZS5t0xIAAO4m12I9%22%29+%5D%5D",
+        "tags": ["Design", "News"],
+        "first_publication_date": "2023-10-17T11:19:49+0000",
+        "last_publication_date": "2023-10-24T16:19:50+0000",
+        "slugs": [],
+        "linked_documents": [],
+        "lang": "en-us",
+        "alternate_languages": [],
+        "data": {
+          "title": "Introducing Pebble — Where Home Meets the Road",
+          "main_image": {
+            "dimensions": { "width": 4000, "height": 2668 },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/pebble-website/6528ffabfbd9a45bcec81585_Pebble-18copy.jpg?auto=format,compress",
+            "id": "ZSj_q_vZpFvOyBWF",
+            "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+          },
+          "author": "Bingrui Yang",
+          "date": "2023-06-08",
+          "slices": [
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "I had always wanted to take an RV trip, so a few years ago, during the pandemic, I, like many others, finally took the plunge. I loved the feeling of freedom, but I hated the product experience. There are bumps in every part of the journey that you have to overcome in order to access the good part of RVing — freedom. That’s why I’m building Pebble — an entirely new way to work, live, explore, and experience life on the road. We will use technology to strip away these hassles so that more people will feel comfortable RVing and our customers can focus on the magic of the RVing experience: exploring, relaxing, and making memories.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Traditional RV models, and even emerging ones, come with a host of hassles: insufficient energy storage, outdated tech and designs, poor towing experience, high fuel costs, and constant maintenance and safety issues, to name a few. For many people, these hassles will be too intimidating and hold them back from taking on RVing. I don’t blame them.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "So, Pebble was born to remove the inconveniences that RVers have dealt with for decades and introduce an all-electric and hassle-free RV experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The fact that our product is 100% electric was a no-brainer. We’re proud to do our part in the move towards a more sustainable future, but more so, we want to make RVing accessible to more people by automating the most challenging aspects of the RV experience.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Gone are the days of all things that detract from the joy of RVing. We’re using cutting-edge automotive and electric vehicle technology to create a more manageable, accessible, and simply magical user experience. If you can operate an iPhone, you’ll be able to comfortably use our product.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Designed with lifestyle in mind, the fully furnished, eco-friendly interior provides users with everything they need to work, sleep and relax, and our renewable energy power sources allow off-grid exploration for up to seven days.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Today, Pebble is officially emerging from stealth with $13.6M in funding. I’m lucky to be surrounded by some of the brightest minds in automotive and consumer technology with a team that comes from Apple, Tesla, Volvo, Lucid, Cruise, and more.",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "We know that for so many people, RVing is no longer just a vacation. It’s a lifestyle. We’re here to make that lifestyle more accessible, whether it’s a family looking for more quality time together, a retiree seeking a new sense of adventure, or a digital nomad who wants to work from truly anywhere.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$9ef9d729-1f43-4559-bfa7-53ad3e417689",
+              "slice_type": "content",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [
+                {
+                  "image": {
+                    "dimensions": { "width": 1400, "height": 875 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/pebble-website/652e91b1fbd9a45bcec817be_Blog4_image.jpg?auto=format,compress",
+                    "id": "ZS6RsfvZpFvOyBe-",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  }
+                }
+              ],
+              "primary": {},
+              "id": "slider$b482a51a-4295-474e-a588-84c838bfae3b",
+              "slice_type": "slider",
+              "slice_label": null
+            },
+            {
+              "variation": "default",
+              "version": "initial",
+              "items": [],
+              "primary": {
+                "content_left": [],
+                "content_right": [
+                  {
+                    "type": "paragraph",
+                    "text": "We promise you’ve never seen an RV experience like this before.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "background": "White",
+                "separators": null
+              },
+              "id": "content$f79647e5-821e-436b-a261-d4296fc55b85",
+              "slice_type": "content",
+              "slice_label": null
+            }
+          ],
+          "meta_title": null,
+          "meta_description": null,
+          "meta_image": {}
+        }
+      }
+    ],
+    "tags": [
+      "News",
+      "Announcement",
+      "Tech",
+      "Engineering",
+      "Event",
+      "co-creation",
+      "Community",
+      "Design"
+    ],
+    "footer": {
+      "id": "ZNoo_xAAACYAsCm_",
+      "uid": null,
+      "url": null,
+      "type": "footer",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-08-14T13:15:46+0000",
+      "last_publication_date": "2023-10-23T17:56:02+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "footer_title": "Where home meets the road.",
+        "newsletter_title": "Subscribe for the latest Pebble updates.",
+        "newsletter_button_text": "Join us",
+        "links": [
+          {
+            "title": "product",
+            "link": {
+              "id": "ZNopgxAAACgAsCxa",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "green",
+              "first_publication_date": "2023-08-14T13:17:58+0000",
+              "last_publication_date": "2024-07-31T00:35:59+0000",
+              "uid": "pebble-flow",
+              "url": "/pebble-flow",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "app",
+            "link": {
+              "id": "ZNopaxAAACcAsCve",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "adventureinspiredapp-driven.",
+              "first_publication_date": "2023-08-14T13:17:34+0000",
+              "last_publication_date": "2023-10-24T08:58:10+0000",
+              "uid": "pebble-app",
+              "url": "/pebble-app",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "company",
+            "link": {
+              "id": "ZNSYbBAAACcAl6gs",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "our-team",
+              "first_publication_date": "2023-08-10T07:57:35+0000",
+              "last_publication_date": "2024-09-04T00:29:21+0000",
+              "uid": "company",
+              "url": "/company",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "community",
+            "link": {
+              "id": "ZNSWxhAAACgAl6A1",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-10T07:50:33+0000",
+              "last_publication_date": "2023-10-31T10:00:14+0000",
+              "uid": "community",
+              "url": "/community",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "press",
+            "link": {
+              "id": "ZNopnhAAACgAsCzn",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "media--press",
+              "first_publication_date": "2023-08-14T13:18:24+0000",
+              "last_publication_date": "2023-10-19T06:44:58+0000",
+              "uid": "press",
+              "url": "/press",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "preorder",
+            "link": {
+              "id": "ZRp6xREAAAqLhCtE",
+              "type": "preorder",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "pre-order",
+              "first_publication_date": "2023-10-02T08:09:43+0000",
+              "last_publication_date": "2024-08-06T17:11:32+0000",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ],
+        "social_networks": [
+          {
+            "title": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.instagram.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Facebook",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.facebook.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.linkedin.com/company/pebblelife/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "X",
+            "link": {
+              "link_type": "Web",
+              "url": "https://twitter.com/PebbleLife",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Discord",
+            "link": {
+              "link_type": "Web",
+              "url": "https://pbbl.cc/discord",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Youtube",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.youtube.com/@PebbleLife",
+              "target": "_blank"
+            }
+          }
+        ],
+        "footer_bottom_links": [
+          {
+            "title": "Privacy policy",
+            "link": {
+              "id": "ZNopGRAAACkAsCpb",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:16:12+0000",
+              "last_publication_date": "2023-10-19T07:31:29+0000",
+              "uid": "privacy-policy",
+              "url": "/privacy-policy",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Terms & conditions",
+            "link": {
+              "id": "ZNopVRAAACcAsCtv",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:17:11+0000",
+              "last_publication_date": "2023-10-18T17:32:27+0000",
+              "uid": "terms-service",
+              "url": "/terms-service",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ]
+      }
+    }
+  },
+  "__N_SSG": true
+}

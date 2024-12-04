@@ -1,0 +1,133 @@
+@charset "UTF-8";
+.text-input-wrapper {
+  border: 0;
+  margin: 0;
+  display: inline-flex;
+  padding: 0;
+  min-width: 0;
+  flex-direction: column;
+  vertical-align: top;
+  width: 100%;
+}
+.text-input-wrapper .label {
+  padding: 0.5rem 1rem 0;
+  color: #526b63;
+  width: calc(100% - 2rem);
+  overflow: hidden;
+  font-size: 0.8125rem;
+  line-height: 1.125rem;
+  z-index: 1;
+  display: block;
+  background-color: #fff;
+}
+.text-input-wrapper .label--error {
+  color: #d8372a;
+}
+.text-input-wrapper .input-wrapper {
+  outline: 1px solid #e1e1e1;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 5px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+  width: 100%;
+  cursor: text;
+  box-sizing: border-box;
+  align-items: center;
+  letter-spacing: 0.00938em;
+  max-width: 600px;
+}
+.text-input-wrapper .input-wrapper__multi-line {
+  max-width: 900px;
+}
+.text-input-wrapper .input-wrapper__multi-line--disabled {
+  background-color: #e1e1e1;
+}
+.text-input-wrapper .input-wrapper--disabled {
+  outline-color: #c8c8c8;
+}
+.text-input-wrapper .input-wrapper--disabled .label:not(.label--outside-label) {
+  background-color: #e1e1e1;
+}
+.text-input-wrapper .input-wrapper--short {
+  max-width: 388px;
+}
+.text-input-wrapper .input-wrapper:after {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  position: absolute;
+  transform: scaleX(0);
+  transition: transform 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+  border-bottom: 2px solid var(--custom-focus-color);
+  pointer-events: none;
+}
+.text-input-wrapper .input-wrapper--active:after {
+  content: "\a0";
+  box-shadow: inset 0 -2px 0 var(--custom-focus-color) !important;
+  border-bottom: none;
+  transform: scaleX(1);
+}
+.text-input-wrapper .input-wrapper--error:after {
+  border-bottom-color: #d8372a !important;
+  box-shadow: inset 0 -2px #d8372a !important;
+}
+.text-input-wrapper .input-wrapper--outside-label {
+  outline: 0;
+}
+.text-input-wrapper .input-wrapper--outside-label .label {
+  padding: 0 0 0.25rem;
+  background-color: transparent;
+}
+.text-input-wrapper .input-wrapper--outside-label .input {
+  outline: 1px solid #e1e1e1;
+  border-radius: 5px;
+}
+.text-input-wrapper .input-wrapper .input {
+  padding: 2px 1rem 0.5rem;
+  width: calc(100% - 2rem);
+  border: none;
+  font-size: 1rem;
+  font-family: inherit;
+  margin: 0;
+  display: block;
+  min-width: 0;
+  background: none;
+  box-sizing: content-box;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+  background-color: #fff;
+}
+.text-input-wrapper .input-wrapper .input__single-line {
+  height: 1.5rem;
+}
+.text-input-wrapper .input-wrapper .input__multi-line {
+  padding-top: 0rem;
+  margin-top: 0.5rem;
+}
+.text-input-wrapper .input-wrapper .input:focus {
+  outline: 0;
+}
+.text-input-wrapper .input-wrapper .input::-moz-placeholder {
+  -webkit-text-fill-color: #666666;
+  opacity: 1 !important;
+}
+.text-input-wrapper .input-wrapper .input::placeholder {
+  -webkit-text-fill-color: #666666;
+  opacity: 1 !important;
+}
+.text-input-wrapper .input-wrapper .input--outside-label {
+  padding: 0.5rem 1rem;
+}
+.text-input-wrapper .input-wrapper .input--outside-label:focus {
+  outline: 1px solid #e1e1e1;
+}
+.text-input-wrapper .input-wrapper .input--disabled {
+  color: #222;
+  background-color: #e1e1e1;
+}
+.text-input-wrapper textarea {
+  resize: vertical;
+}

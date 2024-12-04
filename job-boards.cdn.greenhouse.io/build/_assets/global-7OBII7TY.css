@@ -1,0 +1,173 @@
+.font-primary {
+  font-family: var(--custom-primary-font-family), sans-serif;
+}
+.font-secondary {
+  font-family: var(--custom-secondary-font-family), sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+#react-portal-mount-point {
+  top: 25px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  z-index: 5;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+a {
+  text-decoration: underline;
+  color: var(--custom-link-color);
+}
+a:hover {
+  filter: brightness(60%);
+}
+button {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+}
+hr {
+  background-color: #c8c8c8;
+  height: 1px;
+  border: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+legend {
+  border: 0;
+  padding: 0;
+}
+.required {
+  color: #d8372a;
+  padding-left: 0.25rem;
+}
+.main {
+  width: 100%;
+  padding: 1.5rem 1.5rem 48px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+@media (min-width: 0px) {
+  .main {
+    min-width: 272px;
+    max-width: 100%;
+  }
+}
+@media (min-width: 600px) {
+  .main {
+    min-width: 560px;
+    max-width: 962px;
+  }
+  .main.job-post {
+    max-width: 900px;
+  }
+}
+@media (min-width: 1024px) {
+  .main:not(.job-post) {
+    min-width: 962px;
+    max-width: 1200px;
+  }
+}
+.recruiting-logo {
+  padding-bottom: 3rem;
+}
+.error-message {
+  text-align: center;
+  padding-top: 2.25rem;
+}
+.error .body {
+  color: #d8372a !important;
+  padding-top: 0.25rem;
+}
+.divider {
+  border: 0;
+  border-bottom: 1px solid #e1e1e1;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.helper-text {
+  margin: 0.1875rem 0.875rem 0 1rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #222;
+}
+.helper-text--error {
+  color: #d8372a !important;
+}
+.helper-text .link {
+  font-size: inherit;
+}
+.preview-banner-wrapper {
+  padding-bottom: 32px;
+}
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+.add-another-button {
+  color: var(--custom-link-color);
+  text-decoration: underline;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+@font-face {
+  font-family: Untitled Sans;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url(/fonts/UntitledSansWeb-Regular.woff) format("woff"),
+    url(/fonts/UntitledSansWeb-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: Untitled Sans;
+  font-style: italic;
+  font-weight: 400;
+  src:
+    url(/fonts/UntitledSansWeb-RegularItalic.woff) format("woff"),
+    url(/fonts/UntitledSansWeb-RegularItalic.woff2) format("woff2");
+}
+@font-face {
+  font-family: Untitled Sans;
+  font-style: normal;
+  font-weight: 600;
+  src:
+    url(/fonts/UntitledSansWeb-Medium.woff) format("woff"),
+    url(/fonts/UntitledSansWeb-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: Untitled Sans;
+  font-style: normal;
+  font-weight: 300;
+  src:
+    url(/fonts/UntitledSansWeb-Light.woff) format("woff"),
+    url(/fonts/UntitledSansWeb-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: Untitled Sans;
+  font-style: normal;
+  font-weight: 700;
+  src:
+    url(/fonts/UntitledSansWeb-Bold.woff) format("woff"),
+    url(/fonts/UntitledSansWeb-Bold.woff2) format("woff2");
+}
